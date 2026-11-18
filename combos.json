@@ -1,21 +1,60 @@
 {
-  "version": "2026-11-18-gta5-1",
+  "version": "2026-11-18-gta5-i18n-1",
   "consoles": {
     "playstation": {
       "categories": [
         {
           "id": "gta5-player",
           "name": {
-            "english": "Player"
+            "english": "Player",
+            "french": "Joueur",
+            "portuguese": "Jogador",
+            "german": "Spieler",
+            "arabic": "اللاعب",
+            "spanish": "Jugador",
+            "italian": "Giocatore",
+            "chinese-simplified": "玩家",
+            "chinese-traditional": "玩家",
+            "russian": "Игрок",
+            "polish": "Gracz",
+            "korean": "플레이어",
+            "hindi": "खिलाड़ी",
+            "urdu": "کھلاڑی"
           },
           "combos": [
             {
               "id": "ps-gta5-invincibility-5-min",
               "title": {
-                "english": "Invincibility (5 min)"
+                "english": "Invincibility (5 min)",
+                "french": "Invincibilité (5 min)",
+                "portuguese": "Invencibilidade (5 min)",
+                "german": "Unverwundbarkeit (5 Min.)",
+                "arabic": "عدم القابلية للهزيمة (5 دقائق)",
+                "spanish": "Invencibilidad (5 min)",
+                "italian": "Invincibilità (5 min)",
+                "chinese-simplified": "无敌（5 分钟）",
+                "chinese-traditional": "無敵（5 分鐘）",
+                "russian": "Неуязвимость (5 мин)",
+                "polish": "Nieśmiertelność (5 min)",
+                "korean": "무적 (5분)",
+                "hindi": "अजेयता (5 मिनट)",
+                "urdu": "ناقابلِ شکست (5 منٹ)"
               },
               "description": {
-                "english": "Become invincible for five minutes."
+                "english": "Become invincible for five minutes.",
+                "french": "Devenez invincible pendant cinq minutes.",
+                "portuguese": "Fique invencível por cinco minutos.",
+                "german": "Fünf Minuten lang unverwundbar.",
+                "arabic": "تصبح غير قابل للهزيمة لمدة خمس دقائق.",
+                "spanish": "Vuélvete invencible durante cinco minutos.",
+                "italian": "Diventi invincibile per cinque minuti.",
+                "chinese-simplified": "五分钟内无敌。",
+                "chinese-traditional": "五分鐘內無敵。",
+                "russian": "Неуязвимость на пять минут.",
+                "polish": "Jesteś nieśmiertelny przez pięć minut.",
+                "korean": "5분 동안 무적이 됩니다.",
+                "hindi": "पाँच मिनट के लिए अजेय बन जाएँ।",
+                "urdu": "پانچ منٹ کے لیے ناقابلِ شکست بن جائیں۔"
               },
               "buttons": [
                 "Right",
@@ -33,10 +72,36 @@
             {
               "id": "ps-gta5-max-health-armor",
               "title": {
-                "english": "Max Health & Armor"
+                "english": "Max Health & Armor",
+                "french": "Santé et armure au max",
+                "portuguese": "Vida e colete no máximo",
+                "german": "Volle Gesundheit & Rüstung",
+                "arabic": "أقصى صحة ودرع",
+                "spanish": "Salud y blindaje al máximo",
+                "italian": "Salute e giubbotto al massimo",
+                "chinese-simplified": "满血满护甲",
+                "chinese-traditional": "滿血滿護甲",
+                "russian": "Макс. здоровье и броня",
+                "polish": "Pełne zdrowie i pancerz",
+                "korean": "체력 및 방어구 최대",
+                "hindi": "पूरी हेल्थ और आर्मर",
+                "urdu": "مکمل صحت اور آرمر"
               },
               "description": {
-                "english": "Refills health and armor and repairs your vehicle."
+                "english": "Refills health and armor and repairs your vehicle.",
+                "french": "Recharge la santé et l'armure et répare votre véhicule.",
+                "portuguese": "Recarrega vida e colete e conserta seu veículo.",
+                "german": "Füllt Gesundheit und Rüstung auf und repariert dein Fahrzeug.",
+                "arabic": "يملأ الصحة والدرع ويصلح مركبتك.",
+                "spanish": "Recarga la salud y el blindaje y repara tu vehículo.",
+                "italian": "Ricarica salute e giubbotto e ripara il veicolo.",
+                "chinese-simplified": "恢复生命值和护甲，并修复载具。",
+                "chinese-traditional": "恢復生命值和護甲，並修復載具。",
+                "russian": "Восстанавливает здоровье и броню, чинит транспорт.",
+                "polish": "Uzupełnia zdrowie i pancerz oraz naprawia pojazd.",
+                "korean": "체력과 방어구를 채우고 차량을 수리합니다.",
+                "hindi": "हेल्थ और आर्मर भरता है और आपका वाहन ठीक करता है।",
+                "urdu": "صحت اور آرمر بھرتا ہے اور گاڑی ٹھیک کرتا ہے۔"
               },
               "buttons": [
                 "Circle",
@@ -56,10 +121,36 @@
             {
               "id": "ps-gta5-lower-wanted-level",
               "title": {
-                "english": "Lower Wanted Level"
+                "english": "Lower Wanted Level",
+                "french": "Baisser le niveau de recherche",
+                "portuguese": "Diminuir nível de procurado",
+                "german": "Fahndungslevel senken",
+                "arabic": "خفض مستوى المطاردة",
+                "spanish": "Bajar nivel de búsqueda",
+                "italian": "Ridurre livello ricercato",
+                "chinese-simplified": "降低通缉等级",
+                "chinese-traditional": "降低通緝等級",
+                "russian": "Понизить уровень розыска",
+                "polish": "Obniż poziom poszukiwań",
+                "korean": "수배 레벨 낮추기",
+                "hindi": "वांटेड लेवल घटाएँ",
+                "urdu": "وانٹڈ لیول کم کریں"
               },
               "description": {
-                "english": "Removes one wanted star."
+                "english": "Removes one wanted star.",
+                "french": "Retire une étoile de recherche.",
+                "portuguese": "Remove uma estrela de procurado.",
+                "german": "Entfernt einen Fahndungsstern.",
+                "arabic": "يزيل نجمة مطاردة واحدة.",
+                "spanish": "Quita una estrella de búsqueda.",
+                "italian": "Rimuove una stella.",
+                "chinese-simplified": "减少一颗通缉星。",
+                "chinese-traditional": "減少一顆通緝星。",
+                "russian": "Убирает одну звезду розыска.",
+                "polish": "Usuwa jedną gwiazdkę.",
+                "korean": "수배 별 하나를 없앱니다.",
+                "hindi": "एक वांटेड स्टार हटाता है।",
+                "urdu": "ایک وانٹڈ اسٹار ہٹاتا ہے۔"
               },
               "buttons": [
                 "R1",
@@ -77,10 +168,36 @@
             {
               "id": "ps-gta5-raise-wanted-level",
               "title": {
-                "english": "Raise Wanted Level"
+                "english": "Raise Wanted Level",
+                "french": "Augmenter le niveau de recherche",
+                "portuguese": "Aumentar nível de procurado",
+                "german": "Fahndungslevel erhöhen",
+                "arabic": "رفع مستوى المطاردة",
+                "spanish": "Subir nivel de búsqueda",
+                "italian": "Aumentare livello ricercato",
+                "chinese-simplified": "提高通缉等级",
+                "chinese-traditional": "提高通緝等級",
+                "russian": "Повысить уровень розыска",
+                "polish": "Podnieś poziom poszukiwań",
+                "korean": "수배 레벨 올리기",
+                "hindi": "वांटेड लेवल बढ़ाएँ",
+                "urdu": "وانٹڈ لیول بڑھائیں"
               },
               "description": {
-                "english": "Adds one wanted star."
+                "english": "Adds one wanted star.",
+                "french": "Ajoute une étoile de recherche.",
+                "portuguese": "Adiciona uma estrela de procurado.",
+                "german": "Fügt einen Fahndungsstern hinzu.",
+                "arabic": "يضيف نجمة مطاردة واحدة.",
+                "spanish": "Añade una estrella de búsqueda.",
+                "italian": "Aggiunge una stella.",
+                "chinese-simplified": "增加一颗通缉星。",
+                "chinese-traditional": "增加一顆通緝星。",
+                "russian": "Добавляет одну звезду розыска.",
+                "polish": "Dodaje jedną gwiazdkę.",
+                "korean": "수배 별 하나를 추가합니다.",
+                "hindi": "एक वांटेड स्टार जोड़ता है।",
+                "urdu": "ایک وانٹڈ اسٹار بڑھاتا ہے۔"
               },
               "buttons": [
                 "R1",
@@ -98,10 +215,36 @@
             {
               "id": "ps-gta5-recharge-special-ability",
               "title": {
-                "english": "Recharge Special Ability"
+                "english": "Recharge Special Ability",
+                "french": "Recharger la capacité spéciale",
+                "portuguese": "Recarregar habilidade especial",
+                "german": "Spezialfähigkeit aufladen",
+                "arabic": "إعادة شحن القدرة الخاصة",
+                "spanish": "Recargar habilidad especial",
+                "italian": "Ricarica abilità speciale",
+                "chinese-simplified": "充满特殊能力",
+                "chinese-traditional": "充滿特殊能力",
+                "russian": "Восполнить особую способность",
+                "polish": "Naładuj zdolność specjalną",
+                "korean": "특수 능력 충전",
+                "hindi": "स्पेशल एबिलिटी रिचार्ज",
+                "urdu": "اسپیشل ایبلٹی ری چارج"
               },
               "description": {
-                "english": "Fully refills your character's special ability."
+                "english": "Fully refills your character's special ability.",
+                "french": "Recharge entièrement la capacité spéciale de votre personnage.",
+                "portuguese": "Recarrega totalmente a habilidade especial do personagem.",
+                "german": "Lädt die Spezialfähigkeit deiner Figur vollständig auf.",
+                "arabic": "يملأ القدرة الخاصة لشخصيتك بالكامل.",
+                "spanish": "Recarga por completo la habilidad especial de tu personaje.",
+                "italian": "Ricarica completamente l'abilità speciale del personaggio.",
+                "chinese-simplified": "完全充满角色的特殊能力。",
+                "chinese-traditional": "完全充滿角色的特殊能力。",
+                "russian": "Полностью восполняет особую способность персонажа.",
+                "polish": "W pełni ładuje zdolność specjalną postaci.",
+                "korean": "캐릭터의 특수 능력을 완전히 충전합니다.",
+                "hindi": "आपके किरदार की स्पेशल एबिलिटी पूरी भर देता है।",
+                "urdu": "آپ کے کردار کی اسپیشل ایبلٹی مکمل بھر دیتا ہے۔"
               },
               "buttons": [
                 "X",
@@ -118,10 +261,36 @@
             {
               "id": "ps-gta5-fast-run",
               "title": {
-                "english": "Fast Run"
+                "english": "Fast Run",
+                "french": "Course rapide",
+                "portuguese": "Corrida rápida",
+                "german": "Schnell rennen",
+                "arabic": "الجري السريع",
+                "spanish": "Correr rápido",
+                "italian": "Corsa veloce",
+                "chinese-simplified": "快速奔跑",
+                "chinese-traditional": "快速奔跑",
+                "russian": "Быстрый бег",
+                "polish": "Szybki bieg",
+                "korean": "빠른 달리기",
+                "hindi": "तेज़ दौड़",
+                "urdu": "تیز دوڑ"
               },
               "description": {
-                "english": "Sprint much faster on foot."
+                "english": "Sprint much faster on foot.",
+                "french": "Courez beaucoup plus vite à pied.",
+                "portuguese": "Corra muito mais rápido a pé.",
+                "german": "Zu Fuß viel schneller sprinten.",
+                "arabic": "اركض بسرعة أكبر بكثير.",
+                "spanish": "Corre mucho más rápido a pie.",
+                "italian": "Corri molto più veloce a piedi.",
+                "chinese-simplified": "徒步冲刺速度大幅提升。",
+                "chinese-traditional": "徒步衝刺速度大幅提升。",
+                "russian": "Бег на ногах намного быстрее.",
+                "polish": "Biegasz znacznie szybciej.",
+                "korean": "훨씬 빠르게 달립니다.",
+                "hindi": "पैदल बहुत तेज़ दौड़ें।",
+                "urdu": "پیدل بہت تیز دوڑیں۔"
               },
               "buttons": [
                 "Triangle",
@@ -136,10 +305,36 @@
             {
               "id": "ps-gta5-fast-swim",
               "title": {
-                "english": "Fast Swim"
+                "english": "Fast Swim",
+                "french": "Nage rapide",
+                "portuguese": "Natação rápida",
+                "german": "Schnell schwimmen",
+                "arabic": "السباحة السريعة",
+                "spanish": "Nadar rápido",
+                "italian": "Nuoto veloce",
+                "chinese-simplified": "快速游泳",
+                "chinese-traditional": "快速游泳",
+                "russian": "Быстрое плавание",
+                "polish": "Szybkie pływanie",
+                "korean": "빠른 수영",
+                "hindi": "तेज़ तैराकी",
+                "urdu": "تیز تیراکی"
               },
               "description": {
-                "english": "Swim much faster."
+                "english": "Swim much faster.",
+                "french": "Nagez beaucoup plus vite.",
+                "portuguese": "Nade muito mais rápido.",
+                "german": "Viel schneller schwimmen.",
+                "arabic": "اسبح بسرعة أكبر بكثير.",
+                "spanish": "Nada mucho más rápido.",
+                "italian": "Nuoti molto più veloce.",
+                "chinese-simplified": "游泳速度大幅提升。",
+                "chinese-traditional": "游泳速度大幅提升。",
+                "russian": "Плавание намного быстрее.",
+                "polish": "Pływasz znacznie szybciej.",
+                "korean": "훨씬 빠르게 수영합니다.",
+                "hindi": "बहुत तेज़ तैरें।",
+                "urdu": "بہت تیز تیریں۔"
               },
               "buttons": [
                 "Left",
@@ -156,10 +351,36 @@
             {
               "id": "ps-gta5-super-jump",
               "title": {
-                "english": "Super Jump"
+                "english": "Super Jump",
+                "french": "Super saut",
+                "portuguese": "Super pulo",
+                "german": "Supersprung",
+                "arabic": "القفزة الخارقة",
+                "spanish": "Supersalto",
+                "italian": "Super salto",
+                "chinese-simplified": "超级跳跃",
+                "chinese-traditional": "超級跳躍",
+                "russian": "Суперпрыжок",
+                "polish": "Superskok",
+                "korean": "슈퍼 점프",
+                "hindi": "सुपर जंप",
+                "urdu": "سپر جمپ"
               },
               "description": {
-                "english": "Jump extremely high."
+                "english": "Jump extremely high.",
+                "french": "Sautez extrêmement haut.",
+                "portuguese": "Pule muito alto.",
+                "german": "Extrem hoch springen.",
+                "arabic": "اقفز عاليًا جدًا.",
+                "spanish": "Salta altísimo.",
+                "italian": "Salti altissimo.",
+                "chinese-simplified": "跳得极高。",
+                "chinese-traditional": "跳得極高。",
+                "russian": "Прыжки очень высоко.",
+                "polish": "Skaczesz bardzo wysoko.",
+                "korean": "엄청 높이 점프합니다.",
+                "hindi": "बहुत ऊँची छलांग लगाएँ।",
+                "urdu": "بہت اونچی چھلانگ لگائیں۔"
               },
               "buttons": [
                 "Left",
@@ -178,10 +399,36 @@
             {
               "id": "ps-gta5-drunk-mode",
               "title": {
-                "english": "Drunk Mode"
+                "english": "Drunk Mode",
+                "french": "Mode ivre",
+                "portuguese": "Modo bêbado",
+                "german": "Betrunken-Modus",
+                "arabic": "وضع السُّكر",
+                "spanish": "Modo borracho",
+                "italian": "Modalità ubriaco",
+                "chinese-simplified": "醉酒模式",
+                "chinese-traditional": "醉酒模式",
+                "russian": "Режим опьянения",
+                "polish": "Tryb pijany",
+                "korean": "만취 모드",
+                "hindi": "नशे वाला मोड",
+                "urdu": "نشے والا موڈ"
               },
               "description": {
-                "english": "Your character stumbles around drunk."
+                "english": "Your character stumbles around drunk.",
+                "french": "Votre personnage titube comme s'il était ivre.",
+                "portuguese": "Seu personagem cambaleia bêbado.",
+                "german": "Deine Figur torkelt betrunken herum.",
+                "arabic": "تترنح شخصيتك كأنها في حالة سُكر.",
+                "spanish": "Tu personaje se tambalea borracho.",
+                "italian": "Il personaggio barcolla da ubriaco.",
+                "chinese-simplified": "角色会醉醺醺地摇晃。",
+                "chinese-traditional": "角色會醉醺醺地搖晃。",
+                "russian": "Персонаж шатается, как пьяный.",
+                "polish": "Postać zatacza się jak pijana.",
+                "korean": "캐릭터가 술에 취해 비틀거립니다.",
+                "hindi": "आपका किरदार नशे में लड़खड़ाता है।",
+                "urdu": "آپ کا کردار نشے میں لڑکھڑاتا ہے۔"
               },
               "buttons": [
                 "Triangle",
@@ -197,10 +444,36 @@
             {
               "id": "ps-gta5-skyfall",
               "title": {
-                "english": "Skyfall"
+                "english": "Skyfall",
+                "french": "Chute libre",
+                "portuguese": "Queda livre",
+                "german": "Himmelssturz",
+                "arabic": "السقوط من السماء",
+                "spanish": "Caída libre",
+                "italian": "Caduta libera",
+                "chinese-simplified": "高空坠落",
+                "chinese-traditional": "高空墜落",
+                "russian": "Падение с неба",
+                "polish": "Spadek z nieba",
+                "korean": "스카이폴",
+                "hindi": "स्काईफॉल",
+                "urdu": "اسکائی فال"
               },
               "description": {
-                "english": "Launches you high into the sky to free-fall."
+                "english": "Launches you high into the sky to free-fall.",
+                "french": "Vous propulse très haut dans le ciel pour une chute libre.",
+                "portuguese": "Lança você ao céu para uma queda livre.",
+                "german": "Schleudert dich hoch in den Himmel zum freien Fall.",
+                "arabic": "يطلقك عاليًا في السماء للسقوط الحر.",
+                "spanish": "Te lanza al cielo para una caída libre.",
+                "italian": "Ti lancia in cielo per una caduta libera.",
+                "chinese-simplified": "把你发射到高空自由落体。",
+                "chinese-traditional": "把你發射到高空自由落體。",
+                "russian": "Подбрасывает высоко в небо для свободного падения.",
+                "polish": "Wystrzeliwuje cię w niebo do swobodnego spadania.",
+                "korean": "하늘 높이 날려 자유낙하합니다.",
+                "hindi": "आपको आसमान में ऊँचा उछालता है ताकि आप फ्री-फॉल करें।",
+                "urdu": "آپ کو آسمان میں اونچا اچھالتا ہے تاکہ آپ فری فال کریں۔"
               },
               "buttons": [
                 "L1",
@@ -224,10 +497,36 @@
             {
               "id": "ps-gta5-parachute",
               "title": {
-                "english": "Parachute"
+                "english": "Parachute",
+                "french": "Parachute",
+                "portuguese": "Paraquedas",
+                "german": "Fallschirm",
+                "arabic": "مظلة",
+                "spanish": "Paracaídas",
+                "italian": "Paracadute",
+                "chinese-simplified": "降落伞",
+                "chinese-traditional": "降落傘",
+                "russian": "Парашют",
+                "polish": "Spadochron",
+                "korean": "낙하산",
+                "hindi": "पैराशूट",
+                "urdu": "پیراشوٹ"
               },
               "description": {
-                "english": "Gives you a parachute."
+                "english": "Gives you a parachute.",
+                "french": "Vous donne un parachute.",
+                "portuguese": "Dá um paraquedas.",
+                "german": "Gibt dir einen Fallschirm.",
+                "arabic": "يمنحك مظلة.",
+                "spanish": "Te da un paracaídas.",
+                "italian": "Ti dà un paracadute.",
+                "chinese-simplified": "获得一个降落伞。",
+                "chinese-traditional": "獲得一個降落傘。",
+                "russian": "Даёт парашют.",
+                "polish": "Daje spadochron.",
+                "korean": "낙하산을 지급합니다.",
+                "hindi": "आपको पैराशूट देता है।",
+                "urdu": "آپ کو پیراشوٹ دیتا ہے۔"
               },
               "buttons": [
                 "Left",
@@ -248,16 +547,55 @@
         {
           "id": "gta5-combat",
           "name": {
-            "english": "Weapons & Combat"
+            "english": "Weapons & Combat",
+            "french": "Armes et combat",
+            "portuguese": "Armas e combate",
+            "german": "Waffen & Kampf",
+            "arabic": "الأسلحة والقتال",
+            "spanish": "Armas y combate",
+            "italian": "Armi e combattimento",
+            "chinese-simplified": "武器与战斗",
+            "chinese-traditional": "武器與戰鬥",
+            "russian": "Оружие и бой",
+            "polish": "Broń i walka",
+            "korean": "무기 및 전투",
+            "hindi": "हथियार और लड़ाई",
+            "urdu": "ہتھیار اور لڑائی"
           },
           "combos": [
             {
               "id": "ps-gta5-all-weapons-ammo",
               "title": {
-                "english": "All Weapons & Ammo"
+                "english": "All Weapons & Ammo",
+                "french": "Toutes les armes et munitions",
+                "portuguese": "Todas as armas e munição",
+                "german": "Alle Waffen & Munition",
+                "arabic": "جميع الأسلحة والذخيرة",
+                "spanish": "Todas las armas y munición",
+                "italian": "Tutte le armi e munizioni",
+                "chinese-simplified": "全部武器和弹药",
+                "chinese-traditional": "全部武器和彈藥",
+                "russian": "Всё оружие и патроны",
+                "polish": "Cała broń i amunicja",
+                "korean": "모든 무기 및 탄약",
+                "hindi": "सभी हथियार और गोला-बारूद",
+                "urdu": "تمام ہتھیار اور گولہ بارود"
               },
               "description": {
-                "english": "Gives you a full set of weapons with ammo."
+                "english": "Gives you a full set of weapons with ammo.",
+                "french": "Vous donne un arsenal complet avec munitions.",
+                "portuguese": "Dá um arsenal completo com munição.",
+                "german": "Gibt dir ein komplettes Waffenarsenal mit Munition.",
+                "arabic": "يمنحك مجموعة كاملة من الأسلحة مع الذخيرة.",
+                "spanish": "Te da un arsenal completo con munición.",
+                "italian": "Ti dà un arsenale completo con munizioni.",
+                "chinese-simplified": "获得全套武器和弹药。",
+                "chinese-traditional": "獲得全套武器和彈藥。",
+                "russian": "Даёт полный набор оружия с патронами.",
+                "polish": "Daje pełny zestaw broni z amunicją.",
+                "korean": "탄약과 함께 모든 무기를 지급합니다.",
+                "hindi": "गोला-बारूद के साथ हथियारों का पूरा सेट देता है।",
+                "urdu": "گولہ بارود کے ساتھ ہتھیاروں کا مکمل سیٹ دیتا ہے۔"
               },
               "buttons": [
                 "Triangle",
@@ -277,10 +615,36 @@
             {
               "id": "ps-gta5-explosive-ammo-rounds",
               "title": {
-                "english": "Explosive Ammo Rounds"
+                "english": "Explosive Ammo Rounds",
+                "french": "Munitions explosives",
+                "portuguese": "Munição explosiva",
+                "german": "Explosive Munition",
+                "arabic": "ذخيرة متفجرة",
+                "spanish": "Munición explosiva",
+                "italian": "Munizioni esplosive",
+                "chinese-simplified": "爆炸子弹",
+                "chinese-traditional": "爆炸子彈",
+                "russian": "Взрывные патроны",
+                "polish": "Wybuchowa amunicja",
+                "korean": "폭발탄",
+                "hindi": "विस्फोटक गोलियाँ",
+                "urdu": "دھماکہ خیز گولیاں"
               },
               "description": {
-                "english": "Your bullets explode on impact."
+                "english": "Your bullets explode on impact.",
+                "french": "Vos balles explosent à l'impact.",
+                "portuguese": "Suas balas explodem no impacto.",
+                "german": "Deine Kugeln explodieren beim Aufprall.",
+                "arabic": "تنفجر رصاصاتك عند الاصطدام.",
+                "spanish": "Tus balas explotan al impactar.",
+                "italian": "I proiettili esplodono all'impatto.",
+                "chinese-simplified": "子弹命中即爆炸。",
+                "chinese-traditional": "子彈命中即爆炸。",
+                "russian": "Пули взрываются при попадании.",
+                "polish": "Pociski wybuchają przy trafieniu.",
+                "korean": "총알이 명중 시 폭발합니다.",
+                "hindi": "आपकी गोलियाँ टकराने पर फटती हैं।",
+                "urdu": "آپ کی گولیاں ٹکرانے پر پھٹتی ہیں۔"
               },
               "buttons": [
                 "Right",
@@ -300,10 +664,36 @@
             {
               "id": "ps-gta5-flaming-bullets",
               "title": {
-                "english": "Flaming Bullets"
+                "english": "Flaming Bullets",
+                "french": "Balles incendiaires",
+                "portuguese": "Balas incendiárias",
+                "german": "Brandmunition",
+                "arabic": "رصاص مشتعل",
+                "spanish": "Balas incendiarias",
+                "italian": "Proiettili incendiari",
+                "chinese-simplified": "燃烧子弹",
+                "chinese-traditional": "燃燒子彈",
+                "russian": "Зажигательные пули",
+                "polish": "Płonące pociski",
+                "korean": "화염탄",
+                "hindi": "आग वाली गोलियाँ",
+                "urdu": "آگ والی گولیاں"
               },
               "description": {
-                "english": "Your bullets set targets on fire."
+                "english": "Your bullets set targets on fire.",
+                "french": "Vos balles enflamment les cibles.",
+                "portuguese": "Suas balas incendeiam os alvos.",
+                "german": "Deine Kugeln setzen Ziele in Brand.",
+                "arabic": "تشعل رصاصاتك النار في الأهداف.",
+                "spanish": "Tus balas prenden fuego a los objetivos.",
+                "italian": "I proiettili incendiano i bersagli.",
+                "chinese-simplified": "子弹会点燃目标。",
+                "chinese-traditional": "子彈會點燃目標。",
+                "russian": "Пули поджигают цели.",
+                "polish": "Pociski podpalają cele.",
+                "korean": "총알이 대상을 불태웁니다.",
+                "hindi": "आपकी गोलियाँ निशानों में आग लगाती हैं।",
+                "urdu": "آپ کی گولیاں نشانوں کو آگ لگاتی ہیں۔"
               },
               "buttons": [
                 "L1",
@@ -323,10 +713,36 @@
             {
               "id": "ps-gta5-explosive-melee-attacks",
               "title": {
-                "english": "Explosive Melee Attacks"
+                "english": "Explosive Melee Attacks",
+                "french": "Attaques au corps à corps explosives",
+                "portuguese": "Ataques corpo a corpo explosivos",
+                "german": "Explosive Nahkampfangriffe",
+                "arabic": "هجمات قريبة متفجرة",
+                "spanish": "Ataques cuerpo a cuerpo explosivos",
+                "italian": "Attacchi corpo a corpo esplosivi",
+                "chinese-simplified": "爆炸近战攻击",
+                "chinese-traditional": "爆炸近戰攻擊",
+                "russian": "Взрывные удары",
+                "polish": "Wybuchowe ataki wręcz",
+                "korean": "폭발 근접 공격",
+                "hindi": "विस्फोटक हाथापाई हमले",
+                "urdu": "دھماکہ خیز ہاتھا پائی حملے"
               },
               "description": {
-                "english": "Punches and melee hits cause explosions."
+                "english": "Punches and melee hits cause explosions.",
+                "french": "Les coups de poing et au corps à corps provoquent des explosions.",
+                "portuguese": "Socos e golpes corpo a corpo causam explosões.",
+                "german": "Schläge und Nahkampftreffer verursachen Explosionen.",
+                "arabic": "تسبب اللكمات والضربات القريبة انفجارات.",
+                "spanish": "Los puñetazos y golpes cuerpo a cuerpo causan explosiones.",
+                "italian": "Pugni e colpi corpo a corpo causano esplosioni.",
+                "chinese-simplified": "拳头和近战攻击会引发爆炸。",
+                "chinese-traditional": "拳頭和近戰攻擊會引發爆炸。",
+                "russian": "Удары вызывают взрывы.",
+                "polish": "Ciosy wręcz wywołują eksplozje.",
+                "korean": "주먹과 근접 공격이 폭발을 일으킵니다.",
+                "hindi": "घूंसे और हाथापाई के वार से विस्फोट होते हैं।",
+                "urdu": "مکے اور ہاتھا پائی کے وار دھماکے کرتے ہیں۔"
               },
               "buttons": [
                 "Right",
@@ -343,10 +759,36 @@
             {
               "id": "ps-gta5-slow-motion-aim",
               "title": {
-                "english": "Slow Motion Aim"
+                "english": "Slow Motion Aim",
+                "french": "Visée au ralenti",
+                "portuguese": "Mira em câmera lenta",
+                "german": "Zeitlupen-Zielen",
+                "arabic": "التصويب بالحركة البطيئة",
+                "spanish": "Apuntado a cámara lenta",
+                "italian": "Mira al rallentatore",
+                "chinese-simplified": "慢动作瞄准",
+                "chinese-traditional": "慢動作瞄準",
+                "russian": "Прицел в замедлении",
+                "polish": "Celowanie w zwolnionym tempie",
+                "korean": "슬로 모션 조준",
+                "hindi": "स्लो मोशन निशाना",
+                "urdu": "سلو موشن نشانہ"
               },
               "description": {
-                "english": "Slows time while aiming. Enter up to 4 times for stronger effect."
+                "english": "Slows time while aiming. Enter up to 4 times for stronger effect.",
+                "french": "Ralentit le temps pendant la visée. Saisissez jusqu'à 4 fois pour un effet plus fort.",
+                "portuguese": "Desacelera o tempo ao mirar. Digite até 4 vezes para efeito maior.",
+                "german": "Verlangsamt die Zeit beim Zielen. Bis zu 4-mal eingeben für stärkeren Effekt.",
+                "arabic": "يبطئ الوقت أثناء التصويب. أدخله حتى 4 مرات لتأثير أقوى.",
+                "spanish": "Ralentiza el tiempo al apuntar. Introdúcelo hasta 4 veces para más efecto.",
+                "italian": "Rallenta il tempo mentre miri. Inseriscilo fino a 4 volte per un effetto più forte.",
+                "chinese-simplified": "瞄准时减慢时间。最多输入 4 次以增强效果。",
+                "chinese-traditional": "瞄準時減慢時間。最多輸入 4 次以增強效果。",
+                "russian": "Замедляет время при прицеливании. Введите до 4 раз для усиления.",
+                "polish": "Spowalnia czas podczas celowania. Wpisz do 4 razy dla mocniejszego efektu.",
+                "korean": "조준 시 시간이 느려집니다. 최대 4번 입력하면 효과가 강해집니다.",
+                "hindi": "निशाना लगाते समय समय धीमा करता है। ज़्यादा असर के लिए 4 बार तक डालें।",
+                "urdu": "نشانہ لگاتے وقت وقت سست کرتا ہے۔ زیادہ اثر کے لیے 4 بار تک ڈالیں۔"
               },
               "buttons": [
                 "Square",
@@ -365,16 +807,55 @@
         {
           "id": "gta5-vehicles",
           "name": {
-            "english": "Vehicles"
+            "english": "Vehicles",
+            "french": "Véhicules",
+            "portuguese": "Veículos",
+            "german": "Fahrzeuge",
+            "arabic": "المركبات",
+            "spanish": "Vehículos",
+            "italian": "Veicoli",
+            "chinese-simplified": "载具",
+            "chinese-traditional": "載具",
+            "russian": "Транспорт",
+            "polish": "Pojazdy",
+            "korean": "차량",
+            "hindi": "वाहन",
+            "urdu": "گاڑیاں"
           },
           "combos": [
             {
               "id": "ps-gta5-spawn-buzzard-helicopter",
               "title": {
-                "english": "Spawn Buzzard Helicopter"
+                "english": "Spawn Buzzard Helicopter",
+                "french": "Faire apparaître Buzzard",
+                "portuguese": "Gerar Buzzard",
+                "german": "Buzzard spawnen",
+                "arabic": "استدعاء Buzzard",
+                "spanish": "Generar Buzzard",
+                "italian": "Genera Buzzard",
+                "chinese-simplified": "生成 Buzzard",
+                "chinese-traditional": "生成 Buzzard",
+                "russian": "Вызвать Buzzard",
+                "polish": "Przywołaj Buzzard",
+                "korean": "Buzzard 소환",
+                "hindi": "Buzzard स्पॉन करें",
+                "urdu": "Buzzard اسپان کریں"
               },
               "description": {
-                "english": "Attack helicopter with missiles."
+                "english": "Attack helicopter with missiles.",
+                "french": "Hélicoptère d'attaque avec missiles.",
+                "portuguese": "Helicóptero de ataque com mísseis.",
+                "german": "Kampfhubschrauber mit Raketen.",
+                "arabic": "مروحية هجومية مزودة بصواريخ.",
+                "spanish": "Helicóptero de ataque con misiles.",
+                "italian": "Elicottero d'attacco con missili.",
+                "chinese-simplified": "带导弹的武装直升机。",
+                "chinese-traditional": "帶導彈的武裝直升機。",
+                "russian": "Боевой вертолёт с ракетами.",
+                "polish": "Śmigłowiec bojowy z rakietami.",
+                "korean": "미사일을 장착한 공격 헬기.",
+                "hindi": "मिसाइलों वाला हमलावर हेलीकॉप्टर।",
+                "urdu": "میزائلوں والا حملہ آور ہیلی کاپٹر۔"
               },
               "buttons": [
                 "Circle",
@@ -394,10 +875,36 @@
             {
               "id": "ps-gta5-spawn-comet",
               "title": {
-                "english": "Spawn Comet"
+                "english": "Spawn Comet",
+                "french": "Faire apparaître Comet",
+                "portuguese": "Gerar Comet",
+                "german": "Comet spawnen",
+                "arabic": "استدعاء Comet",
+                "spanish": "Generar Comet",
+                "italian": "Genera Comet",
+                "chinese-simplified": "生成 Comet",
+                "chinese-traditional": "生成 Comet",
+                "russian": "Вызвать Comet",
+                "polish": "Przywołaj Comet",
+                "korean": "Comet 소환",
+                "hindi": "Comet स्पॉन करें",
+                "urdu": "Comet اسپان کریں"
               },
               "description": {
-                "english": "Fast sports car."
+                "english": "Fast sports car.",
+                "french": "Voiture de sport rapide.",
+                "portuguese": "Carro esportivo rápido.",
+                "german": "Schneller Sportwagen.",
+                "arabic": "سيارة رياضية سريعة.",
+                "spanish": "Deportivo rápido.",
+                "italian": "Auto sportiva veloce.",
+                "chinese-simplified": "高速跑车。",
+                "chinese-traditional": "高速跑車。",
+                "russian": "Быстрый спорткар.",
+                "polish": "Szybki samochód sportowy.",
+                "korean": "빠른 스포츠카.",
+                "hindi": "तेज़ स्पोर्ट्स कार।",
+                "urdu": "تیز اسپورٹس کار۔"
               },
               "buttons": [
                 "R1",
@@ -415,10 +922,36 @@
             {
               "id": "ps-gta5-spawn-rapid-gt",
               "title": {
-                "english": "Spawn Rapid GT"
+                "english": "Spawn Rapid GT",
+                "french": "Faire apparaître Rapid GT",
+                "portuguese": "Gerar Rapid GT",
+                "german": "Rapid GT spawnen",
+                "arabic": "استدعاء Rapid GT",
+                "spanish": "Generar Rapid GT",
+                "italian": "Genera Rapid GT",
+                "chinese-simplified": "生成 Rapid GT",
+                "chinese-traditional": "生成 Rapid GT",
+                "russian": "Вызвать Rapid GT",
+                "polish": "Przywołaj Rapid GT",
+                "korean": "Rapid GT 소환",
+                "hindi": "Rapid GT स्पॉन करें",
+                "urdu": "Rapid GT اسپان کریں"
               },
               "description": {
-                "english": "Sports convertible."
+                "english": "Sports convertible.",
+                "french": "Cabriolet sportif.",
+                "portuguese": "Conversível esportivo.",
+                "german": "Sportliches Cabrio.",
+                "arabic": "سيارة رياضية مكشوفة.",
+                "spanish": "Descapotable deportivo.",
+                "italian": "Cabriolet sportiva.",
+                "chinese-simplified": "运动敞篷车。",
+                "chinese-traditional": "運動敞篷車。",
+                "russian": "Спортивный кабриолет.",
+                "polish": "Sportowy kabriolet.",
+                "korean": "스포츠 컨버터블.",
+                "hindi": "स्पोर्ट्स कन्वर्टिबल।",
+                "urdu": "اسپورٹس کنورٹیبل۔"
               },
               "buttons": [
                 "R2",
@@ -436,10 +969,36 @@
             {
               "id": "ps-gta5-spawn-pcj-600",
               "title": {
-                "english": "Spawn PCJ-600"
+                "english": "Spawn PCJ-600",
+                "french": "Faire apparaître PCJ-600",
+                "portuguese": "Gerar PCJ-600",
+                "german": "PCJ-600 spawnen",
+                "arabic": "استدعاء PCJ-600",
+                "spanish": "Generar PCJ-600",
+                "italian": "Genera PCJ-600",
+                "chinese-simplified": "生成 PCJ-600",
+                "chinese-traditional": "生成 PCJ-600",
+                "russian": "Вызвать PCJ-600",
+                "polish": "Przywołaj PCJ-600",
+                "korean": "PCJ-600 소환",
+                "hindi": "PCJ-600 स्पॉन करें",
+                "urdu": "PCJ-600 اسپان کریں"
               },
               "description": {
-                "english": "Sports motorbike."
+                "english": "Sports motorbike.",
+                "french": "Moto sportive.",
+                "portuguese": "Moto esportiva.",
+                "german": "Sportmotorrad.",
+                "arabic": "دراجة نارية رياضية.",
+                "spanish": "Moto deportiva.",
+                "italian": "Moto sportiva.",
+                "chinese-simplified": "运动摩托车。",
+                "chinese-traditional": "運動摩托車。",
+                "russian": "Спортивный мотоцикл.",
+                "polish": "Motocykl sportowy.",
+                "korean": "스포츠 오토바이.",
+                "hindi": "स्पोर्ट्स मोटरबाइक।",
+                "urdu": "اسپورٹس موٹر سائیکل۔"
               },
               "buttons": [
                 "R1",
@@ -459,10 +1018,36 @@
             {
               "id": "ps-gta5-spawn-sanchez",
               "title": {
-                "english": "Spawn Sanchez"
+                "english": "Spawn Sanchez",
+                "french": "Faire apparaître Sanchez",
+                "portuguese": "Gerar Sanchez",
+                "german": "Sanchez spawnen",
+                "arabic": "استدعاء Sanchez",
+                "spanish": "Generar Sanchez",
+                "italian": "Genera Sanchez",
+                "chinese-simplified": "生成 Sanchez",
+                "chinese-traditional": "生成 Sanchez",
+                "russian": "Вызвать Sanchez",
+                "polish": "Przywołaj Sanchez",
+                "korean": "Sanchez 소환",
+                "hindi": "Sanchez स्पॉन करें",
+                "urdu": "Sanchez اسپان کریں"
               },
               "description": {
-                "english": "Off-road dirt bike."
+                "english": "Off-road dirt bike.",
+                "french": "Moto tout-terrain.",
+                "portuguese": "Moto off-road.",
+                "german": "Geländemotorrad.",
+                "arabic": "دراجة ترابية للطرق الوعرة.",
+                "spanish": "Moto todoterreno.",
+                "italian": "Moto da cross.",
+                "chinese-simplified": "越野摩托车。",
+                "chinese-traditional": "越野摩托車。",
+                "russian": "Внедорожный мотоцикл.",
+                "polish": "Motocykl terenowy.",
+                "korean": "오프로드 바이크.",
+                "hindi": "ऑफ-रोड डर्ट बाइक।",
+                "urdu": "آف روڈ ڈرٹ بائیک۔"
               },
               "buttons": [
                 "Circle",
@@ -482,10 +1067,36 @@
             {
               "id": "ps-gta5-spawn-bmx",
               "title": {
-                "english": "Spawn BMX"
+                "english": "Spawn BMX",
+                "french": "Faire apparaître BMX",
+                "portuguese": "Gerar BMX",
+                "german": "BMX spawnen",
+                "arabic": "استدعاء BMX",
+                "spanish": "Generar BMX",
+                "italian": "Genera BMX",
+                "chinese-simplified": "生成 BMX",
+                "chinese-traditional": "生成 BMX",
+                "russian": "Вызвать BMX",
+                "polish": "Przywołaj BMX",
+                "korean": "BMX 소환",
+                "hindi": "BMX स्पॉन करें",
+                "urdu": "BMX اسپان کریں"
               },
               "description": {
-                "english": "BMX bicycle."
+                "english": "BMX bicycle.",
+                "french": "Vélo BMX.",
+                "portuguese": "Bicicleta BMX.",
+                "german": "BMX-Fahrrad.",
+                "arabic": "دراجة BMX.",
+                "spanish": "Bicicleta BMX.",
+                "italian": "Bicicletta BMX.",
+                "chinese-simplified": "BMX 自行车。",
+                "chinese-traditional": "BMX 自行車。",
+                "russian": "Велосипед BMX.",
+                "polish": "Rower BMX.",
+                "korean": "BMX 자전거.",
+                "hindi": "BMX साइकिल।",
+                "urdu": "BMX سائیکل۔"
               },
               "buttons": [
                 "Left",
@@ -504,10 +1115,36 @@
             {
               "id": "ps-gta5-spawn-stunt-plane",
               "title": {
-                "english": "Spawn Stunt Plane"
+                "english": "Spawn Stunt Plane",
+                "french": "Faire apparaître Mallard",
+                "portuguese": "Gerar Mallard",
+                "german": "Mallard spawnen",
+                "arabic": "استدعاء Mallard",
+                "spanish": "Generar Mallard",
+                "italian": "Genera Mallard",
+                "chinese-simplified": "生成 Mallard",
+                "chinese-traditional": "生成 Mallard",
+                "russian": "Вызвать Mallard",
+                "polish": "Przywołaj Mallard",
+                "korean": "Mallard 소환",
+                "hindi": "Mallard स्पॉन करें",
+                "urdu": "Mallard اسپان کریں"
               },
               "description": {
-                "english": "Mallard stunt plane."
+                "english": "Mallard stunt plane.",
+                "french": "Avion de voltige Mallard.",
+                "portuguese": "Avião acrobático Mallard.",
+                "german": "Kunstflugzeug Mallard.",
+                "arabic": "طائرة استعراضية Mallard.",
+                "spanish": "Avioneta acrobática Mallard.",
+                "italian": "Aereo acrobatico Mallard.",
+                "chinese-simplified": "Mallard 特技飞机。",
+                "chinese-traditional": "Mallard 特技飛機。",
+                "russian": "Пилотажный самолёт Mallard.",
+                "polish": "Samolot akrobacyjny Mallard.",
+                "korean": "Mallard 곡예 비행기.",
+                "hindi": "Mallard स्टंट विमान।",
+                "urdu": "Mallard اسٹنٹ طیارہ۔"
               },
               "buttons": [
                 "Circle",
@@ -527,10 +1164,36 @@
             {
               "id": "ps-gta5-spawn-duster",
               "title": {
-                "english": "Spawn Duster"
+                "english": "Spawn Duster",
+                "french": "Faire apparaître Duster",
+                "portuguese": "Gerar Duster",
+                "german": "Duster spawnen",
+                "arabic": "استدعاء Duster",
+                "spanish": "Generar Duster",
+                "italian": "Genera Duster",
+                "chinese-simplified": "生成 Duster",
+                "chinese-traditional": "生成 Duster",
+                "russian": "Вызвать Duster",
+                "polish": "Przywołaj Duster",
+                "korean": "Duster 소환",
+                "hindi": "Duster स्पॉन करें",
+                "urdu": "Duster اسپان کریں"
               },
               "description": {
-                "english": "Crop duster plane."
+                "english": "Crop duster plane.",
+                "french": "Avion d'épandage.",
+                "portuguese": "Avião agrícola.",
+                "german": "Agrarflugzeug.",
+                "arabic": "طائرة رش زراعي.",
+                "spanish": "Avioneta fumigadora.",
+                "italian": "Aereo agricolo.",
+                "chinese-simplified": "农用喷洒飞机。",
+                "chinese-traditional": "農用噴灑飛機。",
+                "russian": "Самолёт-опылитель.",
+                "polish": "Samolot rolniczy.",
+                "korean": "농약 살포기.",
+                "hindi": "फसल छिड़काव विमान।",
+                "urdu": "فصل اسپرے طیارہ۔"
               },
               "buttons": [
                 "Right",
@@ -550,10 +1213,36 @@
             {
               "id": "ps-gta5-spawn-limo",
               "title": {
-                "english": "Spawn Limo"
+                "english": "Spawn Limo",
+                "french": "Faire apparaître Stretch",
+                "portuguese": "Gerar Stretch",
+                "german": "Stretch spawnen",
+                "arabic": "استدعاء Stretch",
+                "spanish": "Generar Stretch",
+                "italian": "Genera Stretch",
+                "chinese-simplified": "生成 Stretch",
+                "chinese-traditional": "生成 Stretch",
+                "russian": "Вызвать Stretch",
+                "polish": "Przywołaj Stretch",
+                "korean": "Stretch 소환",
+                "hindi": "Stretch स्पॉन करें",
+                "urdu": "Stretch اسپان کریں"
               },
               "description": {
-                "english": "Stretch limousine."
+                "english": "Stretch limousine.",
+                "french": "Limousine allongée.",
+                "portuguese": "Limusine.",
+                "german": "Stretch-Limousine.",
+                "arabic": "سيارة ليموزين طويلة.",
+                "spanish": "Limusina.",
+                "italian": "Limousine.",
+                "chinese-simplified": "加长豪华轿车。",
+                "chinese-traditional": "加長豪華轎車。",
+                "russian": "Лимузин.",
+                "polish": "Limuzyna.",
+                "korean": "리무진.",
+                "hindi": "स्ट्रेच लिमोज़ीन।",
+                "urdu": "لمبی لیموزین۔"
               },
               "buttons": [
                 "R2",
@@ -570,10 +1259,36 @@
             {
               "id": "ps-gta5-spawn-trashmaster",
               "title": {
-                "english": "Spawn Trashmaster"
+                "english": "Spawn Trashmaster",
+                "french": "Faire apparaître Trashmaster",
+                "portuguese": "Gerar Trashmaster",
+                "german": "Trashmaster spawnen",
+                "arabic": "استدعاء Trashmaster",
+                "spanish": "Generar Trashmaster",
+                "italian": "Genera Trashmaster",
+                "chinese-simplified": "生成 Trashmaster",
+                "chinese-traditional": "生成 Trashmaster",
+                "russian": "Вызвать Trashmaster",
+                "polish": "Przywołaj Trashmaster",
+                "korean": "Trashmaster 소환",
+                "hindi": "Trashmaster स्पॉन करें",
+                "urdu": "Trashmaster اسپان کریں"
               },
               "description": {
-                "english": "Garbage truck."
+                "english": "Garbage truck.",
+                "french": "Camion poubelle.",
+                "portuguese": "Caminhão de lixo.",
+                "german": "Müllwagen.",
+                "arabic": "شاحنة نفايات.",
+                "spanish": "Camión de basura.",
+                "italian": "Camion della spazzatura.",
+                "chinese-simplified": "垃圾车。",
+                "chinese-traditional": "垃圾車。",
+                "russian": "Мусоровоз.",
+                "polish": "Śmieciarka.",
+                "korean": "쓰레기차.",
+                "hindi": "कचरा ट्रक।",
+                "urdu": "کچرا ٹرک۔"
               },
               "buttons": [
                 "Circle",
@@ -591,10 +1306,36 @@
             {
               "id": "ps-gta5-spawn-caddy",
               "title": {
-                "english": "Spawn Caddy"
+                "english": "Spawn Caddy",
+                "french": "Faire apparaître Caddy",
+                "portuguese": "Gerar Caddy",
+                "german": "Caddy spawnen",
+                "arabic": "استدعاء Caddy",
+                "spanish": "Generar Caddy",
+                "italian": "Genera Caddy",
+                "chinese-simplified": "生成 Caddy",
+                "chinese-traditional": "生成 Caddy",
+                "russian": "Вызвать Caddy",
+                "polish": "Przywołaj Caddy",
+                "korean": "Caddy 소환",
+                "hindi": "Caddy स्पॉन करें",
+                "urdu": "Caddy اسپان کریں"
               },
               "description": {
-                "english": "Golf cart."
+                "english": "Golf cart.",
+                "french": "Voiturette de golf.",
+                "portuguese": "Carrinho de golfe.",
+                "german": "Golfwagen.",
+                "arabic": "عربة غولف.",
+                "spanish": "Carrito de golf.",
+                "italian": "Golf cart.",
+                "chinese-simplified": "高尔夫球车。",
+                "chinese-traditional": "高爾夫球車。",
+                "russian": "Гольф-кар.",
+                "polish": "Wózek golfowy.",
+                "korean": "골프 카트.",
+                "hindi": "गोल्फ़ कार्ट।",
+                "urdu": "گالف کارٹ۔"
               },
               "buttons": [
                 "Circle",
@@ -614,16 +1355,55 @@
         {
           "id": "gta5-world",
           "name": {
-            "english": "World"
+            "english": "World",
+            "french": "Monde",
+            "portuguese": "Mundo",
+            "german": "Welt",
+            "arabic": "العالم",
+            "spanish": "Mundo",
+            "italian": "Mondo",
+            "chinese-simplified": "世界",
+            "chinese-traditional": "世界",
+            "russian": "Мир",
+            "polish": "Świat",
+            "korean": "월드",
+            "hindi": "दुनिया",
+            "urdu": "دنیا"
           },
           "combos": [
             {
               "id": "ps-gta5-change-weather",
               "title": {
-                "english": "Change Weather"
+                "english": "Change Weather",
+                "french": "Changer la météo",
+                "portuguese": "Mudar o clima",
+                "german": "Wetter ändern",
+                "arabic": "تغيير الطقس",
+                "spanish": "Cambiar el clima",
+                "italian": "Cambia meteo",
+                "chinese-simplified": "切换天气",
+                "chinese-traditional": "切換天氣",
+                "russian": "Сменить погоду",
+                "polish": "Zmień pogodę",
+                "korean": "날씨 변경",
+                "hindi": "मौसम बदलें",
+                "urdu": "موسم بدلیں"
               },
               "description": {
-                "english": "Cycles through weather types. Repeat to change again."
+                "english": "Cycles through weather types. Repeat to change again.",
+                "french": "Fait défiler les types de météo. Répétez pour changer à nouveau.",
+                "portuguese": "Alterna entre os tipos de clima. Repita para mudar de novo.",
+                "german": "Wechselt durch die Wetterarten. Wiederholen zum erneuten Wechseln.",
+                "arabic": "يتنقل بين أنواع الطقس. كرّر للتغيير مرة أخرى.",
+                "spanish": "Alterna entre tipos de clima. Repite para cambiar de nuevo.",
+                "italian": "Alterna i tipi di meteo. Ripeti per cambiarlo ancora.",
+                "chinese-simplified": "循环切换天气类型。重复输入可再次切换。",
+                "chinese-traditional": "循環切換天氣類型。重複輸入可再次切換。",
+                "russian": "Переключает типы погоды. Повторите, чтобы сменить снова.",
+                "polish": "Przełącza rodzaje pogody. Powtórz, by zmienić ponownie.",
+                "korean": "날씨 종류를 순환합니다. 반복하면 다시 바뀝니다.",
+                "hindi": "मौसम के प्रकार बदलता है। फिर से बदलने के लिए दोहराएँ।",
+                "urdu": "موسم کی اقسام بدلتا ہے۔ دوبارہ بدلنے کے لیے دہرائیں۔"
               },
               "buttons": [
                 "R2",
@@ -639,10 +1419,36 @@
             {
               "id": "ps-gta5-moon-gravity",
               "title": {
-                "english": "Moon Gravity"
+                "english": "Moon Gravity",
+                "french": "Gravité lunaire",
+                "portuguese": "Gravidade lunar",
+                "german": "Mondschwerkraft",
+                "arabic": "جاذبية القمر",
+                "spanish": "Gravedad lunar",
+                "italian": "Gravità lunare",
+                "chinese-simplified": "月球重力",
+                "chinese-traditional": "月球重力",
+                "russian": "Лунная гравитация",
+                "polish": "Grawitacja księżycowa",
+                "korean": "달 중력",
+                "hindi": "चाँद जैसा गुरुत्व",
+                "urdu": "چاند جیسی کششِ ثقل"
               },
               "description": {
-                "english": "Lowers gravity for a floaty feel."
+                "english": "Lowers gravity for a floaty feel.",
+                "french": "Réduit la gravité pour une sensation de flottement.",
+                "portuguese": "Reduz a gravidade para uma sensação de flutuação.",
+                "german": "Verringert die Schwerkraft für ein schwebendes Gefühl.",
+                "arabic": "يخفض الجاذبية لإحساس بالطفو.",
+                "spanish": "Reduce la gravedad para una sensación de flotar.",
+                "italian": "Riduce la gravità per una sensazione di galleggiamento.",
+                "chinese-simplified": "降低重力，带来漂浮感。",
+                "chinese-traditional": "降低重力，帶來漂浮感。",
+                "russian": "Снижает гравитацию для ощущения парения.",
+                "polish": "Zmniejsza grawitację, dając uczucie unoszenia.",
+                "korean": "중력을 낮춰 둥둥 뜨는 느낌을 줍니다.",
+                "hindi": "गुरुत्व कम करता है ताकि तैरने जैसा लगे।",
+                "urdu": "کششِ ثقل کم کرتا ہے تاکہ تیرنے جیسا لگے۔"
               },
               "buttons": [
                 "Left",
@@ -659,10 +1465,36 @@
             {
               "id": "ps-gta5-slippery-cars",
               "title": {
-                "english": "Slippery Cars"
+                "english": "Slippery Cars",
+                "french": "Voitures glissantes",
+                "portuguese": "Carros escorregadios",
+                "german": "Rutschige Autos",
+                "arabic": "سيارات زلقة",
+                "spanish": "Coches resbaladizos",
+                "italian": "Auto scivolose",
+                "chinese-simplified": "车辆打滑",
+                "chinese-traditional": "車輛打滑",
+                "russian": "Скользкие машины",
+                "polish": "Śliskie samochody",
+                "korean": "미끄러운 차량",
+                "hindi": "फिसलन वाली कारें",
+                "urdu": "پھسلنے والی گاڑیاں"
               },
               "description": {
-                "english": "Makes all cars slide like on ice."
+                "english": "Makes all cars slide like on ice.",
+                "french": "Toutes les voitures glissent comme sur la glace.",
+                "portuguese": "Faz todos os carros deslizarem como no gelo.",
+                "german": "Alle Autos rutschen wie auf Eis.",
+                "arabic": "تجعل جميع السيارات تنزلق كأنها على الجليد.",
+                "spanish": "Hace que todos los coches derrapen como sobre hielo.",
+                "italian": "Tutte le auto scivolano come sul ghiaccio.",
+                "chinese-simplified": "所有车辆像在冰上一样打滑。",
+                "chinese-traditional": "所有車輛像在冰上一樣打滑。",
+                "russian": "Все машины скользят, как по льду.",
+                "polish": "Wszystkie auta ślizgają się jak po lodzie.",
+                "korean": "모든 차량이 빙판처럼 미끄러집니다.",
+                "hindi": "सभी कारें बर्फ़ की तरह फिसलती हैं।",
+                "urdu": "تمام گاڑیاں برف کی طرح پھسلتی ہیں۔"
               },
               "buttons": [
                 "Triangle",
@@ -678,10 +1510,36 @@
             {
               "id": "ps-gta5-slow-motion",
               "title": {
-                "english": "Slow Motion"
+                "english": "Slow Motion",
+                "french": "Ralenti",
+                "portuguese": "Câmera lenta",
+                "german": "Zeitlupe",
+                "arabic": "الحركة البطيئة",
+                "spanish": "Cámara lenta",
+                "italian": "Rallentatore",
+                "chinese-simplified": "慢动作",
+                "chinese-traditional": "慢動作",
+                "russian": "Замедление",
+                "polish": "Zwolnione tempo",
+                "korean": "슬로 모션",
+                "hindi": "स्लो मोशन",
+                "urdu": "سلو موشن"
               },
               "description": {
-                "english": "Slows down time. Enter up to 3 times for stronger effect."
+                "english": "Slows down time. Enter up to 3 times for stronger effect.",
+                "french": "Ralentit le temps. Saisissez jusqu'à 3 fois pour un effet plus fort.",
+                "portuguese": "Desacelera o tempo. Digite até 3 vezes para efeito maior.",
+                "german": "Verlangsamt die Zeit. Bis zu 3-mal eingeben für stärkeren Effekt.",
+                "arabic": "يبطئ الوقت. أدخله حتى 3 مرات لتأثير أقوى.",
+                "spanish": "Ralentiza el tiempo. Introdúcelo hasta 3 veces para más efecto.",
+                "italian": "Rallenta il tempo. Inseriscilo fino a 3 volte per un effetto più forte.",
+                "chinese-simplified": "减慢时间。最多输入 3 次以增强效果。",
+                "chinese-traditional": "減慢時間。最多輸入 3 次以增強效果。",
+                "russian": "Замедляет время. Введите до 3 раз для усиления.",
+                "polish": "Spowalnia czas. Wpisz do 3 razy dla mocniejszego efektu.",
+                "korean": "시간이 느려집니다. 최대 3번 입력하면 효과가 강해집니다.",
+                "hindi": "समय धीमा करता है। ज़्यादा असर के लिए 3 बार तक डालें।",
+                "urdu": "وقت سست کرتا ہے۔ زیادہ اثر کے لیے 3 بار تک ڈالیں۔"
               },
               "buttons": [
                 "Triangle",
@@ -702,16 +1560,55 @@
         {
           "id": "gta5-player",
           "name": {
-            "english": "Player"
+            "english": "Player",
+            "french": "Joueur",
+            "portuguese": "Jogador",
+            "german": "Spieler",
+            "arabic": "اللاعب",
+            "spanish": "Jugador",
+            "italian": "Giocatore",
+            "chinese-simplified": "玩家",
+            "chinese-traditional": "玩家",
+            "russian": "Игрок",
+            "polish": "Gracz",
+            "korean": "플레이어",
+            "hindi": "खिलाड़ी",
+            "urdu": "کھلاڑی"
           },
           "combos": [
             {
               "id": "xb-gta5-invincibility-5-min",
               "title": {
-                "english": "Invincibility (5 min)"
+                "english": "Invincibility (5 min)",
+                "french": "Invincibilité (5 min)",
+                "portuguese": "Invencibilidade (5 min)",
+                "german": "Unverwundbarkeit (5 Min.)",
+                "arabic": "عدم القابلية للهزيمة (5 دقائق)",
+                "spanish": "Invencibilidad (5 min)",
+                "italian": "Invincibilità (5 min)",
+                "chinese-simplified": "无敌（5 分钟）",
+                "chinese-traditional": "無敵（5 分鐘）",
+                "russian": "Неуязвимость (5 мин)",
+                "polish": "Nieśmiertelność (5 min)",
+                "korean": "무적 (5분)",
+                "hindi": "अजेयता (5 मिनट)",
+                "urdu": "ناقابلِ شکست (5 منٹ)"
               },
               "description": {
-                "english": "Become invincible for five minutes."
+                "english": "Become invincible for five minutes.",
+                "french": "Devenez invincible pendant cinq minutes.",
+                "portuguese": "Fique invencível por cinco minutos.",
+                "german": "Fünf Minuten lang unverwundbar.",
+                "arabic": "تصبح غير قابل للهزيمة لمدة خمس دقائق.",
+                "spanish": "Vuélvete invencible durante cinco minutos.",
+                "italian": "Diventi invincibile per cinque minuti.",
+                "chinese-simplified": "五分钟内无敌。",
+                "chinese-traditional": "五分鐘內無敵。",
+                "russian": "Неуязвимость на пять минут.",
+                "polish": "Jesteś nieśmiertelny przez pięć minut.",
+                "korean": "5분 동안 무적이 됩니다.",
+                "hindi": "पाँच मिनट के लिए अजेय बन जाएँ।",
+                "urdu": "پانچ منٹ کے لیے ناقابلِ شکست بن جائیں۔"
               },
               "buttons": [
                 "Right",
@@ -729,10 +1626,36 @@
             {
               "id": "xb-gta5-max-health-armor",
               "title": {
-                "english": "Max Health & Armor"
+                "english": "Max Health & Armor",
+                "french": "Santé et armure au max",
+                "portuguese": "Vida e colete no máximo",
+                "german": "Volle Gesundheit & Rüstung",
+                "arabic": "أقصى صحة ودرع",
+                "spanish": "Salud y blindaje al máximo",
+                "italian": "Salute e giubbotto al massimo",
+                "chinese-simplified": "满血满护甲",
+                "chinese-traditional": "滿血滿護甲",
+                "russian": "Макс. здоровье и броня",
+                "polish": "Pełne zdrowie i pancerz",
+                "korean": "체력 및 방어구 최대",
+                "hindi": "पूरी हेल्थ और आर्मर",
+                "urdu": "مکمل صحت اور آرمر"
               },
               "description": {
-                "english": "Refills health and armor and repairs your vehicle."
+                "english": "Refills health and armor and repairs your vehicle.",
+                "french": "Recharge la santé et l'armure et répare votre véhicule.",
+                "portuguese": "Recarrega vida e colete e conserta seu veículo.",
+                "german": "Füllt Gesundheit und Rüstung auf und repariert dein Fahrzeug.",
+                "arabic": "يملأ الصحة والدرع ويصلح مركبتك.",
+                "spanish": "Recarga la salud y el blindaje y repara tu vehículo.",
+                "italian": "Ricarica salute e giubbotto e ripara il veicolo.",
+                "chinese-simplified": "恢复生命值和护甲，并修复载具。",
+                "chinese-traditional": "恢復生命值和護甲，並修復載具。",
+                "russian": "Восстанавливает здоровье и броню, чинит транспорт.",
+                "polish": "Uzupełnia zdrowie i pancerz oraz naprawia pojazd.",
+                "korean": "체력과 방어구를 채우고 차량을 수리합니다.",
+                "hindi": "हेल्थ और आर्मर भरता है और आपका वाहन ठीक करता है।",
+                "urdu": "صحت اور آرمر بھرتا ہے اور گاڑی ٹھیک کرتا ہے۔"
               },
               "buttons": [
                 "B",
@@ -752,10 +1675,36 @@
             {
               "id": "xb-gta5-lower-wanted-level",
               "title": {
-                "english": "Lower Wanted Level"
+                "english": "Lower Wanted Level",
+                "french": "Baisser le niveau de recherche",
+                "portuguese": "Diminuir nível de procurado",
+                "german": "Fahndungslevel senken",
+                "arabic": "خفض مستوى المطاردة",
+                "spanish": "Bajar nivel de búsqueda",
+                "italian": "Ridurre livello ricercato",
+                "chinese-simplified": "降低通缉等级",
+                "chinese-traditional": "降低通緝等級",
+                "russian": "Понизить уровень розыска",
+                "polish": "Obniż poziom poszukiwań",
+                "korean": "수배 레벨 낮추기",
+                "hindi": "वांटेड लेवल घटाएँ",
+                "urdu": "وانٹڈ لیول کم کریں"
               },
               "description": {
-                "english": "Removes one wanted star."
+                "english": "Removes one wanted star.",
+                "french": "Retire une étoile de recherche.",
+                "portuguese": "Remove uma estrela de procurado.",
+                "german": "Entfernt einen Fahndungsstern.",
+                "arabic": "يزيل نجمة مطاردة واحدة.",
+                "spanish": "Quita una estrella de búsqueda.",
+                "italian": "Rimuove una stella.",
+                "chinese-simplified": "减少一颗通缉星。",
+                "chinese-traditional": "減少一顆通緝星。",
+                "russian": "Убирает одну звезду розыска.",
+                "polish": "Usuwa jedną gwiazdkę.",
+                "korean": "수배 별 하나를 없앱니다.",
+                "hindi": "एक वांटेड स्टार हटाता है।",
+                "urdu": "ایک وانٹڈ اسٹار ہٹاتا ہے۔"
               },
               "buttons": [
                 "RB",
@@ -773,10 +1722,36 @@
             {
               "id": "xb-gta5-raise-wanted-level",
               "title": {
-                "english": "Raise Wanted Level"
+                "english": "Raise Wanted Level",
+                "french": "Augmenter le niveau de recherche",
+                "portuguese": "Aumentar nível de procurado",
+                "german": "Fahndungslevel erhöhen",
+                "arabic": "رفع مستوى المطاردة",
+                "spanish": "Subir nivel de búsqueda",
+                "italian": "Aumentare livello ricercato",
+                "chinese-simplified": "提高通缉等级",
+                "chinese-traditional": "提高通緝等級",
+                "russian": "Повысить уровень розыска",
+                "polish": "Podnieś poziom poszukiwań",
+                "korean": "수배 레벨 올리기",
+                "hindi": "वांटेड लेवल बढ़ाएँ",
+                "urdu": "وانٹڈ لیول بڑھائیں"
               },
               "description": {
-                "english": "Adds one wanted star."
+                "english": "Adds one wanted star.",
+                "french": "Ajoute une étoile de recherche.",
+                "portuguese": "Adiciona uma estrela de procurado.",
+                "german": "Fügt einen Fahndungsstern hinzu.",
+                "arabic": "يضيف نجمة مطاردة واحدة.",
+                "spanish": "Añade una estrella de búsqueda.",
+                "italian": "Aggiunge una stella.",
+                "chinese-simplified": "增加一颗通缉星。",
+                "chinese-traditional": "增加一顆通緝星。",
+                "russian": "Добавляет одну звезду розыска.",
+                "polish": "Dodaje jedną gwiazdkę.",
+                "korean": "수배 별 하나를 추가합니다.",
+                "hindi": "एक वांटेड स्टार जोड़ता है।",
+                "urdu": "ایک وانٹڈ اسٹار بڑھاتا ہے۔"
               },
               "buttons": [
                 "RB",
@@ -794,10 +1769,36 @@
             {
               "id": "xb-gta5-recharge-special-ability",
               "title": {
-                "english": "Recharge Special Ability"
+                "english": "Recharge Special Ability",
+                "french": "Recharger la capacité spéciale",
+                "portuguese": "Recarregar habilidade especial",
+                "german": "Spezialfähigkeit aufladen",
+                "arabic": "إعادة شحن القدرة الخاصة",
+                "spanish": "Recargar habilidad especial",
+                "italian": "Ricarica abilità speciale",
+                "chinese-simplified": "充满特殊能力",
+                "chinese-traditional": "充滿特殊能力",
+                "russian": "Восполнить особую способность",
+                "polish": "Naładuj zdolność specjalną",
+                "korean": "특수 능력 충전",
+                "hindi": "स्पेशल एबिलिटी रिचार्ज",
+                "urdu": "اسپیشل ایبلٹی ری چارج"
               },
               "description": {
-                "english": "Fully refills your character's special ability."
+                "english": "Fully refills your character's special ability.",
+                "french": "Recharge entièrement la capacité spéciale de votre personnage.",
+                "portuguese": "Recarrega totalmente a habilidade especial do personagem.",
+                "german": "Lädt die Spezialfähigkeit deiner Figur vollständig auf.",
+                "arabic": "يملأ القدرة الخاصة لشخصيتك بالكامل.",
+                "spanish": "Recarga por completo la habilidad especial de tu personaje.",
+                "italian": "Ricarica completamente l'abilità speciale del personaggio.",
+                "chinese-simplified": "完全充满角色的特殊能力。",
+                "chinese-traditional": "完全充滿角色的特殊能力。",
+                "russian": "Полностью восполняет особую способность персонажа.",
+                "polish": "W pełni ładuje zdolność specjalną postaci.",
+                "korean": "캐릭터의 특수 능력을 완전히 충전합니다.",
+                "hindi": "आपके किरदार की स्पेशल एबिलिटी पूरी भर देता है।",
+                "urdu": "آپ کے کردار کی اسپیشل ایبلٹی مکمل بھر دیتا ہے۔"
               },
               "buttons": [
                 "A",
@@ -814,10 +1815,36 @@
             {
               "id": "xb-gta5-fast-run",
               "title": {
-                "english": "Fast Run"
+                "english": "Fast Run",
+                "french": "Course rapide",
+                "portuguese": "Corrida rápida",
+                "german": "Schnell rennen",
+                "arabic": "الجري السريع",
+                "spanish": "Correr rápido",
+                "italian": "Corsa veloce",
+                "chinese-simplified": "快速奔跑",
+                "chinese-traditional": "快速奔跑",
+                "russian": "Быстрый бег",
+                "polish": "Szybki bieg",
+                "korean": "빠른 달리기",
+                "hindi": "तेज़ दौड़",
+                "urdu": "تیز دوڑ"
               },
               "description": {
-                "english": "Sprint much faster on foot."
+                "english": "Sprint much faster on foot.",
+                "french": "Courez beaucoup plus vite à pied.",
+                "portuguese": "Corra muito mais rápido a pé.",
+                "german": "Zu Fuß viel schneller sprinten.",
+                "arabic": "اركض بسرعة أكبر بكثير.",
+                "spanish": "Corre mucho más rápido a pie.",
+                "italian": "Corri molto più veloce a piedi.",
+                "chinese-simplified": "徒步冲刺速度大幅提升。",
+                "chinese-traditional": "徒步衝刺速度大幅提升。",
+                "russian": "Бег на ногах намного быстрее.",
+                "polish": "Biegasz znacznie szybciej.",
+                "korean": "훨씬 빠르게 달립니다.",
+                "hindi": "पैदल बहुत तेज़ दौड़ें।",
+                "urdu": "پیدل بہت تیز دوڑیں۔"
               },
               "buttons": [
                 "Y",
@@ -832,10 +1859,36 @@
             {
               "id": "xb-gta5-fast-swim",
               "title": {
-                "english": "Fast Swim"
+                "english": "Fast Swim",
+                "french": "Nage rapide",
+                "portuguese": "Natação rápida",
+                "german": "Schnell schwimmen",
+                "arabic": "السباحة السريعة",
+                "spanish": "Nadar rápido",
+                "italian": "Nuoto veloce",
+                "chinese-simplified": "快速游泳",
+                "chinese-traditional": "快速游泳",
+                "russian": "Быстрое плавание",
+                "polish": "Szybkie pływanie",
+                "korean": "빠른 수영",
+                "hindi": "तेज़ तैराकी",
+                "urdu": "تیز تیراکی"
               },
               "description": {
-                "english": "Swim much faster."
+                "english": "Swim much faster.",
+                "french": "Nagez beaucoup plus vite.",
+                "portuguese": "Nade muito mais rápido.",
+                "german": "Viel schneller schwimmen.",
+                "arabic": "اسبح بسرعة أكبر بكثير.",
+                "spanish": "Nada mucho más rápido.",
+                "italian": "Nuoti molto più veloce.",
+                "chinese-simplified": "游泳速度大幅提升。",
+                "chinese-traditional": "游泳速度大幅提升。",
+                "russian": "Плавание намного быстрее.",
+                "polish": "Pływasz znacznie szybciej.",
+                "korean": "훨씬 빠르게 수영합니다.",
+                "hindi": "बहुत तेज़ तैरें।",
+                "urdu": "بہت تیز تیریں۔"
               },
               "buttons": [
                 "Left",
@@ -852,10 +1905,36 @@
             {
               "id": "xb-gta5-super-jump",
               "title": {
-                "english": "Super Jump"
+                "english": "Super Jump",
+                "french": "Super saut",
+                "portuguese": "Super pulo",
+                "german": "Supersprung",
+                "arabic": "القفزة الخارقة",
+                "spanish": "Supersalto",
+                "italian": "Super salto",
+                "chinese-simplified": "超级跳跃",
+                "chinese-traditional": "超級跳躍",
+                "russian": "Суперпрыжок",
+                "polish": "Superskok",
+                "korean": "슈퍼 점프",
+                "hindi": "सुपर जंप",
+                "urdu": "سپر جمپ"
               },
               "description": {
-                "english": "Jump extremely high."
+                "english": "Jump extremely high.",
+                "french": "Sautez extrêmement haut.",
+                "portuguese": "Pule muito alto.",
+                "german": "Extrem hoch springen.",
+                "arabic": "اقفز عاليًا جدًا.",
+                "spanish": "Salta altísimo.",
+                "italian": "Salti altissimo.",
+                "chinese-simplified": "跳得极高。",
+                "chinese-traditional": "跳得極高。",
+                "russian": "Прыжки очень высоко.",
+                "polish": "Skaczesz bardzo wysoko.",
+                "korean": "엄청 높이 점프합니다.",
+                "hindi": "बहुत ऊँची छलांग लगाएँ।",
+                "urdu": "بہت اونچی چھلانگ لگائیں۔"
               },
               "buttons": [
                 "Left",
@@ -874,10 +1953,36 @@
             {
               "id": "xb-gta5-drunk-mode",
               "title": {
-                "english": "Drunk Mode"
+                "english": "Drunk Mode",
+                "french": "Mode ivre",
+                "portuguese": "Modo bêbado",
+                "german": "Betrunken-Modus",
+                "arabic": "وضع السُّكر",
+                "spanish": "Modo borracho",
+                "italian": "Modalità ubriaco",
+                "chinese-simplified": "醉酒模式",
+                "chinese-traditional": "醉酒模式",
+                "russian": "Режим опьянения",
+                "polish": "Tryb pijany",
+                "korean": "만취 모드",
+                "hindi": "नशे वाला मोड",
+                "urdu": "نشے والا موڈ"
               },
               "description": {
-                "english": "Your character stumbles around drunk."
+                "english": "Your character stumbles around drunk.",
+                "french": "Votre personnage titube comme s'il était ivre.",
+                "portuguese": "Seu personagem cambaleia bêbado.",
+                "german": "Deine Figur torkelt betrunken herum.",
+                "arabic": "تترنح شخصيتك كأنها في حالة سُكر.",
+                "spanish": "Tu personaje se tambalea borracho.",
+                "italian": "Il personaggio barcolla da ubriaco.",
+                "chinese-simplified": "角色会醉醺醺地摇晃。",
+                "chinese-traditional": "角色會醉醺醺地搖晃。",
+                "russian": "Персонаж шатается, как пьяный.",
+                "polish": "Postać zatacza się jak pijana.",
+                "korean": "캐릭터가 술에 취해 비틀거립니다.",
+                "hindi": "आपका किरदार नशे में लड़खड़ाता है।",
+                "urdu": "آپ کا کردار نشے میں لڑکھڑاتا ہے۔"
               },
               "buttons": [
                 "Y",
@@ -893,10 +1998,36 @@
             {
               "id": "xb-gta5-skyfall",
               "title": {
-                "english": "Skyfall"
+                "english": "Skyfall",
+                "french": "Chute libre",
+                "portuguese": "Queda livre",
+                "german": "Himmelssturz",
+                "arabic": "السقوط من السماء",
+                "spanish": "Caída libre",
+                "italian": "Caduta libera",
+                "chinese-simplified": "高空坠落",
+                "chinese-traditional": "高空墜落",
+                "russian": "Падение с неба",
+                "polish": "Spadek z nieba",
+                "korean": "스카이폴",
+                "hindi": "स्काईफॉल",
+                "urdu": "اسکائی فال"
               },
               "description": {
-                "english": "Launches you high into the sky to free-fall."
+                "english": "Launches you high into the sky to free-fall.",
+                "french": "Vous propulse très haut dans le ciel pour une chute libre.",
+                "portuguese": "Lança você ao céu para uma queda livre.",
+                "german": "Schleudert dich hoch in den Himmel zum freien Fall.",
+                "arabic": "يطلقك عاليًا في السماء للسقوط الحر.",
+                "spanish": "Te lanza al cielo para una caída libre.",
+                "italian": "Ti lancia in cielo per una caduta libera.",
+                "chinese-simplified": "把你发射到高空自由落体。",
+                "chinese-traditional": "把你發射到高空自由落體。",
+                "russian": "Подбрасывает высоко в небо для свободного падения.",
+                "polish": "Wystrzeliwuje cię w niebo do swobodnego spadania.",
+                "korean": "하늘 높이 날려 자유낙하합니다.",
+                "hindi": "आपको आसमान में ऊँचा उछालता है ताकि आप फ्री-फॉल करें।",
+                "urdu": "آپ کو آسمان میں اونچا اچھالتا ہے تاکہ آپ فری فال کریں۔"
               },
               "buttons": [
                 "LB",
@@ -920,10 +2051,36 @@
             {
               "id": "xb-gta5-parachute",
               "title": {
-                "english": "Parachute"
+                "english": "Parachute",
+                "french": "Parachute",
+                "portuguese": "Paraquedas",
+                "german": "Fallschirm",
+                "arabic": "مظلة",
+                "spanish": "Paracaídas",
+                "italian": "Paracadute",
+                "chinese-simplified": "降落伞",
+                "chinese-traditional": "降落傘",
+                "russian": "Парашют",
+                "polish": "Spadochron",
+                "korean": "낙하산",
+                "hindi": "पैराशूट",
+                "urdu": "پیراشوٹ"
               },
               "description": {
-                "english": "Gives you a parachute."
+                "english": "Gives you a parachute.",
+                "french": "Vous donne un parachute.",
+                "portuguese": "Dá um paraquedas.",
+                "german": "Gibt dir einen Fallschirm.",
+                "arabic": "يمنحك مظلة.",
+                "spanish": "Te da un paracaídas.",
+                "italian": "Ti dà un paracadute.",
+                "chinese-simplified": "获得一个降落伞。",
+                "chinese-traditional": "獲得一個降落傘。",
+                "russian": "Даёт парашют.",
+                "polish": "Daje spadochron.",
+                "korean": "낙하산을 지급합니다.",
+                "hindi": "आपको पैराशूट देता है।",
+                "urdu": "آپ کو پیراشوٹ دیتا ہے۔"
               },
               "buttons": [
                 "Left",
@@ -944,16 +2101,55 @@
         {
           "id": "gta5-combat",
           "name": {
-            "english": "Weapons & Combat"
+            "english": "Weapons & Combat",
+            "french": "Armes et combat",
+            "portuguese": "Armas e combate",
+            "german": "Waffen & Kampf",
+            "arabic": "الأسلحة والقتال",
+            "spanish": "Armas y combate",
+            "italian": "Armi e combattimento",
+            "chinese-simplified": "武器与战斗",
+            "chinese-traditional": "武器與戰鬥",
+            "russian": "Оружие и бой",
+            "polish": "Broń i walka",
+            "korean": "무기 및 전투",
+            "hindi": "हथियार और लड़ाई",
+            "urdu": "ہتھیار اور لڑائی"
           },
           "combos": [
             {
               "id": "xb-gta5-all-weapons-ammo",
               "title": {
-                "english": "All Weapons & Ammo"
+                "english": "All Weapons & Ammo",
+                "french": "Toutes les armes et munitions",
+                "portuguese": "Todas as armas e munição",
+                "german": "Alle Waffen & Munition",
+                "arabic": "جميع الأسلحة والذخيرة",
+                "spanish": "Todas las armas y munición",
+                "italian": "Tutte le armi e munizioni",
+                "chinese-simplified": "全部武器和弹药",
+                "chinese-traditional": "全部武器和彈藥",
+                "russian": "Всё оружие и патроны",
+                "polish": "Cała broń i amunicja",
+                "korean": "모든 무기 및 탄약",
+                "hindi": "सभी हथियार और गोला-बारूद",
+                "urdu": "تمام ہتھیار اور گولہ بارود"
               },
               "description": {
-                "english": "Gives you a full set of weapons with ammo."
+                "english": "Gives you a full set of weapons with ammo.",
+                "french": "Vous donne un arsenal complet avec munitions.",
+                "portuguese": "Dá um arsenal completo com munição.",
+                "german": "Gibt dir ein komplettes Waffenarsenal mit Munition.",
+                "arabic": "يمنحك مجموعة كاملة من الأسلحة مع الذخيرة.",
+                "spanish": "Te da un arsenal completo con munición.",
+                "italian": "Ti dà un arsenale completo con munizioni.",
+                "chinese-simplified": "获得全套武器和弹药。",
+                "chinese-traditional": "獲得全套武器和彈藥。",
+                "russian": "Даёт полный набор оружия с патронами.",
+                "polish": "Daje pełny zestaw broni z amunicją.",
+                "korean": "탄약과 함께 모든 무기를 지급합니다.",
+                "hindi": "गोला-बारूद के साथ हथियारों का पूरा सेट देता है।",
+                "urdu": "گولہ بارود کے ساتھ ہتھیاروں کا مکمل سیٹ دیتا ہے۔"
               },
               "buttons": [
                 "Y",
@@ -973,10 +2169,36 @@
             {
               "id": "xb-gta5-explosive-ammo-rounds",
               "title": {
-                "english": "Explosive Ammo Rounds"
+                "english": "Explosive Ammo Rounds",
+                "french": "Munitions explosives",
+                "portuguese": "Munição explosiva",
+                "german": "Explosive Munition",
+                "arabic": "ذخيرة متفجرة",
+                "spanish": "Munición explosiva",
+                "italian": "Munizioni esplosive",
+                "chinese-simplified": "爆炸子弹",
+                "chinese-traditional": "爆炸子彈",
+                "russian": "Взрывные патроны",
+                "polish": "Wybuchowa amunicja",
+                "korean": "폭발탄",
+                "hindi": "विस्फोटक गोलियाँ",
+                "urdu": "دھماکہ خیز گولیاں"
               },
               "description": {
-                "english": "Your bullets explode on impact."
+                "english": "Your bullets explode on impact.",
+                "french": "Vos balles explosent à l'impact.",
+                "portuguese": "Suas balas explodem no impacto.",
+                "german": "Deine Kugeln explodieren beim Aufprall.",
+                "arabic": "تنفجر رصاصاتك عند الاصطدام.",
+                "spanish": "Tus balas explotan al impactar.",
+                "italian": "I proiettili esplodono all'impatto.",
+                "chinese-simplified": "子弹命中即爆炸。",
+                "chinese-traditional": "子彈命中即爆炸。",
+                "russian": "Пули взрываются при попадании.",
+                "polish": "Pociski wybuchają przy trafieniu.",
+                "korean": "총알이 명중 시 폭발합니다.",
+                "hindi": "आपकी गोलियाँ टकराने पर फटती हैं।",
+                "urdu": "آپ کی گولیاں ٹکرانے پر پھٹتی ہیں۔"
               },
               "buttons": [
                 "Right",
@@ -996,10 +2218,36 @@
             {
               "id": "xb-gta5-flaming-bullets",
               "title": {
-                "english": "Flaming Bullets"
+                "english": "Flaming Bullets",
+                "french": "Balles incendiaires",
+                "portuguese": "Balas incendiárias",
+                "german": "Brandmunition",
+                "arabic": "رصاص مشتعل",
+                "spanish": "Balas incendiarias",
+                "italian": "Proiettili incendiari",
+                "chinese-simplified": "燃烧子弹",
+                "chinese-traditional": "燃燒子彈",
+                "russian": "Зажигательные пули",
+                "polish": "Płonące pociski",
+                "korean": "화염탄",
+                "hindi": "आग वाली गोलियाँ",
+                "urdu": "آگ والی گولیاں"
               },
               "description": {
-                "english": "Your bullets set targets on fire."
+                "english": "Your bullets set targets on fire.",
+                "french": "Vos balles enflamment les cibles.",
+                "portuguese": "Suas balas incendeiam os alvos.",
+                "german": "Deine Kugeln setzen Ziele in Brand.",
+                "arabic": "تشعل رصاصاتك النار في الأهداف.",
+                "spanish": "Tus balas prenden fuego a los objetivos.",
+                "italian": "I proiettili incendiano i bersagli.",
+                "chinese-simplified": "子弹会点燃目标。",
+                "chinese-traditional": "子彈會點燃目標。",
+                "russian": "Пули поджигают цели.",
+                "polish": "Pociski podpalają cele.",
+                "korean": "총알이 대상을 불태웁니다.",
+                "hindi": "आपकी गोलियाँ निशानों में आग लगाती हैं।",
+                "urdu": "آپ کی گولیاں نشانوں کو آگ لگاتی ہیں۔"
               },
               "buttons": [
                 "LB",
@@ -1019,10 +2267,36 @@
             {
               "id": "xb-gta5-explosive-melee-attacks",
               "title": {
-                "english": "Explosive Melee Attacks"
+                "english": "Explosive Melee Attacks",
+                "french": "Attaques au corps à corps explosives",
+                "portuguese": "Ataques corpo a corpo explosivos",
+                "german": "Explosive Nahkampfangriffe",
+                "arabic": "هجمات قريبة متفجرة",
+                "spanish": "Ataques cuerpo a cuerpo explosivos",
+                "italian": "Attacchi corpo a corpo esplosivi",
+                "chinese-simplified": "爆炸近战攻击",
+                "chinese-traditional": "爆炸近戰攻擊",
+                "russian": "Взрывные удары",
+                "polish": "Wybuchowe ataki wręcz",
+                "korean": "폭발 근접 공격",
+                "hindi": "विस्फोटक हाथापाई हमले",
+                "urdu": "دھماکہ خیز ہاتھا پائی حملے"
               },
               "description": {
-                "english": "Punches and melee hits cause explosions."
+                "english": "Punches and melee hits cause explosions.",
+                "french": "Les coups de poing et au corps à corps provoquent des explosions.",
+                "portuguese": "Socos e golpes corpo a corpo causam explosões.",
+                "german": "Schläge und Nahkampftreffer verursachen Explosionen.",
+                "arabic": "تسبب اللكمات والضربات القريبة انفجارات.",
+                "spanish": "Los puñetazos y golpes cuerpo a cuerpo causan explosiones.",
+                "italian": "Pugni e colpi corpo a corpo causano esplosioni.",
+                "chinese-simplified": "拳头和近战攻击会引发爆炸。",
+                "chinese-traditional": "拳頭和近戰攻擊會引發爆炸。",
+                "russian": "Удары вызывают взрывы.",
+                "polish": "Ciosy wręcz wywołują eksplozje.",
+                "korean": "주먹과 근접 공격이 폭발을 일으킵니다.",
+                "hindi": "घूंसे और हाथापाई के वार से विस्फोट होते हैं।",
+                "urdu": "مکے اور ہاتھا پائی کے وار دھماکے کرتے ہیں۔"
               },
               "buttons": [
                 "Right",
@@ -1039,10 +2313,36 @@
             {
               "id": "xb-gta5-slow-motion-aim",
               "title": {
-                "english": "Slow Motion Aim"
+                "english": "Slow Motion Aim",
+                "french": "Visée au ralenti",
+                "portuguese": "Mira em câmera lenta",
+                "german": "Zeitlupen-Zielen",
+                "arabic": "التصويب بالحركة البطيئة",
+                "spanish": "Apuntado a cámara lenta",
+                "italian": "Mira al rallentatore",
+                "chinese-simplified": "慢动作瞄准",
+                "chinese-traditional": "慢動作瞄準",
+                "russian": "Прицел в замедлении",
+                "polish": "Celowanie w zwolnionym tempie",
+                "korean": "슬로 모션 조준",
+                "hindi": "स्लो मोशन निशाना",
+                "urdu": "سلو موشن نشانہ"
               },
               "description": {
-                "english": "Slows time while aiming. Enter up to 4 times for stronger effect."
+                "english": "Slows time while aiming. Enter up to 4 times for stronger effect.",
+                "french": "Ralentit le temps pendant la visée. Saisissez jusqu'à 4 fois pour un effet plus fort.",
+                "portuguese": "Desacelera o tempo ao mirar. Digite até 4 vezes para efeito maior.",
+                "german": "Verlangsamt die Zeit beim Zielen. Bis zu 4-mal eingeben für stärkeren Effekt.",
+                "arabic": "يبطئ الوقت أثناء التصويب. أدخله حتى 4 مرات لتأثير أقوى.",
+                "spanish": "Ralentiza el tiempo al apuntar. Introdúcelo hasta 4 veces para más efecto.",
+                "italian": "Rallenta il tempo mentre miri. Inseriscilo fino a 4 volte per un effetto più forte.",
+                "chinese-simplified": "瞄准时减慢时间。最多输入 4 次以增强效果。",
+                "chinese-traditional": "瞄準時減慢時間。最多輸入 4 次以增強效果。",
+                "russian": "Замедляет время при прицеливании. Введите до 4 раз для усиления.",
+                "polish": "Spowalnia czas podczas celowania. Wpisz do 4 razy dla mocniejszego efektu.",
+                "korean": "조준 시 시간이 느려집니다. 최대 4번 입력하면 효과가 강해집니다.",
+                "hindi": "निशाना लगाते समय समय धीमा करता है। ज़्यादा असर के लिए 4 बार तक डालें।",
+                "urdu": "نشانہ لگاتے وقت وقت سست کرتا ہے۔ زیادہ اثر کے لیے 4 بار تک ڈالیں۔"
               },
               "buttons": [
                 "X",
@@ -1061,16 +2361,55 @@
         {
           "id": "gta5-vehicles",
           "name": {
-            "english": "Vehicles"
+            "english": "Vehicles",
+            "french": "Véhicules",
+            "portuguese": "Veículos",
+            "german": "Fahrzeuge",
+            "arabic": "المركبات",
+            "spanish": "Vehículos",
+            "italian": "Veicoli",
+            "chinese-simplified": "载具",
+            "chinese-traditional": "載具",
+            "russian": "Транспорт",
+            "polish": "Pojazdy",
+            "korean": "차량",
+            "hindi": "वाहन",
+            "urdu": "گاڑیاں"
           },
           "combos": [
             {
               "id": "xb-gta5-spawn-buzzard-helicopter",
               "title": {
-                "english": "Spawn Buzzard Helicopter"
+                "english": "Spawn Buzzard Helicopter",
+                "french": "Faire apparaître Buzzard",
+                "portuguese": "Gerar Buzzard",
+                "german": "Buzzard spawnen",
+                "arabic": "استدعاء Buzzard",
+                "spanish": "Generar Buzzard",
+                "italian": "Genera Buzzard",
+                "chinese-simplified": "生成 Buzzard",
+                "chinese-traditional": "生成 Buzzard",
+                "russian": "Вызвать Buzzard",
+                "polish": "Przywołaj Buzzard",
+                "korean": "Buzzard 소환",
+                "hindi": "Buzzard स्पॉन करें",
+                "urdu": "Buzzard اسپان کریں"
               },
               "description": {
-                "english": "Attack helicopter with missiles."
+                "english": "Attack helicopter with missiles.",
+                "french": "Hélicoptère d'attaque avec missiles.",
+                "portuguese": "Helicóptero de ataque com mísseis.",
+                "german": "Kampfhubschrauber mit Raketen.",
+                "arabic": "مروحية هجومية مزودة بصواريخ.",
+                "spanish": "Helicóptero de ataque con misiles.",
+                "italian": "Elicottero d'attacco con missili.",
+                "chinese-simplified": "带导弹的武装直升机。",
+                "chinese-traditional": "帶導彈的武裝直升機。",
+                "russian": "Боевой вертолёт с ракетами.",
+                "polish": "Śmigłowiec bojowy z rakietami.",
+                "korean": "미사일을 장착한 공격 헬기.",
+                "hindi": "मिसाइलों वाला हमलावर हेलीकॉप्टर।",
+                "urdu": "میزائلوں والا حملہ آور ہیلی کاپٹر۔"
               },
               "buttons": [
                 "B",
@@ -1090,10 +2429,36 @@
             {
               "id": "xb-gta5-spawn-comet",
               "title": {
-                "english": "Spawn Comet"
+                "english": "Spawn Comet",
+                "french": "Faire apparaître Comet",
+                "portuguese": "Gerar Comet",
+                "german": "Comet spawnen",
+                "arabic": "استدعاء Comet",
+                "spanish": "Generar Comet",
+                "italian": "Genera Comet",
+                "chinese-simplified": "生成 Comet",
+                "chinese-traditional": "生成 Comet",
+                "russian": "Вызвать Comet",
+                "polish": "Przywołaj Comet",
+                "korean": "Comet 소환",
+                "hindi": "Comet स्पॉन करें",
+                "urdu": "Comet اسپان کریں"
               },
               "description": {
-                "english": "Fast sports car."
+                "english": "Fast sports car.",
+                "french": "Voiture de sport rapide.",
+                "portuguese": "Carro esportivo rápido.",
+                "german": "Schneller Sportwagen.",
+                "arabic": "سيارة رياضية سريعة.",
+                "spanish": "Deportivo rápido.",
+                "italian": "Auto sportiva veloce.",
+                "chinese-simplified": "高速跑车。",
+                "chinese-traditional": "高速跑車。",
+                "russian": "Быстрый спорткар.",
+                "polish": "Szybki samochód sportowy.",
+                "korean": "빠른 스포츠카.",
+                "hindi": "तेज़ स्पोर्ट्स कार।",
+                "urdu": "تیز اسپورٹس کار۔"
               },
               "buttons": [
                 "RB",
@@ -1111,10 +2476,36 @@
             {
               "id": "xb-gta5-spawn-rapid-gt",
               "title": {
-                "english": "Spawn Rapid GT"
+                "english": "Spawn Rapid GT",
+                "french": "Faire apparaître Rapid GT",
+                "portuguese": "Gerar Rapid GT",
+                "german": "Rapid GT spawnen",
+                "arabic": "استدعاء Rapid GT",
+                "spanish": "Generar Rapid GT",
+                "italian": "Genera Rapid GT",
+                "chinese-simplified": "生成 Rapid GT",
+                "chinese-traditional": "生成 Rapid GT",
+                "russian": "Вызвать Rapid GT",
+                "polish": "Przywołaj Rapid GT",
+                "korean": "Rapid GT 소환",
+                "hindi": "Rapid GT स्पॉन करें",
+                "urdu": "Rapid GT اسپان کریں"
               },
               "description": {
-                "english": "Sports convertible."
+                "english": "Sports convertible.",
+                "french": "Cabriolet sportif.",
+                "portuguese": "Conversível esportivo.",
+                "german": "Sportliches Cabrio.",
+                "arabic": "سيارة رياضية مكشوفة.",
+                "spanish": "Descapotable deportivo.",
+                "italian": "Cabriolet sportiva.",
+                "chinese-simplified": "运动敞篷车。",
+                "chinese-traditional": "運動敞篷車。",
+                "russian": "Спортивный кабриолет.",
+                "polish": "Sportowy kabriolet.",
+                "korean": "스포츠 컨버터블.",
+                "hindi": "स्पोर्ट्स कन्वर्टिबल।",
+                "urdu": "اسپورٹس کنورٹیبل۔"
               },
               "buttons": [
                 "RT",
@@ -1132,10 +2523,36 @@
             {
               "id": "xb-gta5-spawn-pcj-600",
               "title": {
-                "english": "Spawn PCJ-600"
+                "english": "Spawn PCJ-600",
+                "french": "Faire apparaître PCJ-600",
+                "portuguese": "Gerar PCJ-600",
+                "german": "PCJ-600 spawnen",
+                "arabic": "استدعاء PCJ-600",
+                "spanish": "Generar PCJ-600",
+                "italian": "Genera PCJ-600",
+                "chinese-simplified": "生成 PCJ-600",
+                "chinese-traditional": "生成 PCJ-600",
+                "russian": "Вызвать PCJ-600",
+                "polish": "Przywołaj PCJ-600",
+                "korean": "PCJ-600 소환",
+                "hindi": "PCJ-600 स्पॉन करें",
+                "urdu": "PCJ-600 اسپان کریں"
               },
               "description": {
-                "english": "Sports motorbike."
+                "english": "Sports motorbike.",
+                "french": "Moto sportive.",
+                "portuguese": "Moto esportiva.",
+                "german": "Sportmotorrad.",
+                "arabic": "دراجة نارية رياضية.",
+                "spanish": "Moto deportiva.",
+                "italian": "Moto sportiva.",
+                "chinese-simplified": "运动摩托车。",
+                "chinese-traditional": "運動摩托車。",
+                "russian": "Спортивный мотоцикл.",
+                "polish": "Motocykl sportowy.",
+                "korean": "스포츠 오토바이.",
+                "hindi": "स्पोर्ट्स मोटरबाइक।",
+                "urdu": "اسپورٹس موٹر سائیکل۔"
               },
               "buttons": [
                 "RB",
@@ -1155,10 +2572,36 @@
             {
               "id": "xb-gta5-spawn-sanchez",
               "title": {
-                "english": "Spawn Sanchez"
+                "english": "Spawn Sanchez",
+                "french": "Faire apparaître Sanchez",
+                "portuguese": "Gerar Sanchez",
+                "german": "Sanchez spawnen",
+                "arabic": "استدعاء Sanchez",
+                "spanish": "Generar Sanchez",
+                "italian": "Genera Sanchez",
+                "chinese-simplified": "生成 Sanchez",
+                "chinese-traditional": "生成 Sanchez",
+                "russian": "Вызвать Sanchez",
+                "polish": "Przywołaj Sanchez",
+                "korean": "Sanchez 소환",
+                "hindi": "Sanchez स्पॉन करें",
+                "urdu": "Sanchez اسپان کریں"
               },
               "description": {
-                "english": "Off-road dirt bike."
+                "english": "Off-road dirt bike.",
+                "french": "Moto tout-terrain.",
+                "portuguese": "Moto off-road.",
+                "german": "Geländemotorrad.",
+                "arabic": "دراجة ترابية للطرق الوعرة.",
+                "spanish": "Moto todoterreno.",
+                "italian": "Moto da cross.",
+                "chinese-simplified": "越野摩托车。",
+                "chinese-traditional": "越野摩托車。",
+                "russian": "Внедорожный мотоцикл.",
+                "polish": "Motocykl terenowy.",
+                "korean": "오프로드 바이크.",
+                "hindi": "ऑफ-रोड डर्ट बाइक।",
+                "urdu": "آف روڈ ڈرٹ بائیک۔"
               },
               "buttons": [
                 "B",
@@ -1178,10 +2621,36 @@
             {
               "id": "xb-gta5-spawn-bmx",
               "title": {
-                "english": "Spawn BMX"
+                "english": "Spawn BMX",
+                "french": "Faire apparaître BMX",
+                "portuguese": "Gerar BMX",
+                "german": "BMX spawnen",
+                "arabic": "استدعاء BMX",
+                "spanish": "Generar BMX",
+                "italian": "Genera BMX",
+                "chinese-simplified": "生成 BMX",
+                "chinese-traditional": "生成 BMX",
+                "russian": "Вызвать BMX",
+                "polish": "Przywołaj BMX",
+                "korean": "BMX 소환",
+                "hindi": "BMX स्पॉन करें",
+                "urdu": "BMX اسپان کریں"
               },
               "description": {
-                "english": "BMX bicycle."
+                "english": "BMX bicycle.",
+                "french": "Vélo BMX.",
+                "portuguese": "Bicicleta BMX.",
+                "german": "BMX-Fahrrad.",
+                "arabic": "دراجة BMX.",
+                "spanish": "Bicicleta BMX.",
+                "italian": "Bicicletta BMX.",
+                "chinese-simplified": "BMX 自行车。",
+                "chinese-traditional": "BMX 自行車。",
+                "russian": "Велосипед BMX.",
+                "polish": "Rower BMX.",
+                "korean": "BMX 자전거.",
+                "hindi": "BMX साइकिल।",
+                "urdu": "BMX سائیکل۔"
               },
               "buttons": [
                 "Left",
@@ -1200,10 +2669,36 @@
             {
               "id": "xb-gta5-spawn-stunt-plane",
               "title": {
-                "english": "Spawn Stunt Plane"
+                "english": "Spawn Stunt Plane",
+                "french": "Faire apparaître Mallard",
+                "portuguese": "Gerar Mallard",
+                "german": "Mallard spawnen",
+                "arabic": "استدعاء Mallard",
+                "spanish": "Generar Mallard",
+                "italian": "Genera Mallard",
+                "chinese-simplified": "生成 Mallard",
+                "chinese-traditional": "生成 Mallard",
+                "russian": "Вызвать Mallard",
+                "polish": "Przywołaj Mallard",
+                "korean": "Mallard 소환",
+                "hindi": "Mallard स्पॉन करें",
+                "urdu": "Mallard اسپان کریں"
               },
               "description": {
-                "english": "Mallard stunt plane."
+                "english": "Mallard stunt plane.",
+                "french": "Avion de voltige Mallard.",
+                "portuguese": "Avião acrobático Mallard.",
+                "german": "Kunstflugzeug Mallard.",
+                "arabic": "طائرة استعراضية Mallard.",
+                "spanish": "Avioneta acrobática Mallard.",
+                "italian": "Aereo acrobatico Mallard.",
+                "chinese-simplified": "Mallard 特技飞机。",
+                "chinese-traditional": "Mallard 特技飛機。",
+                "russian": "Пилотажный самолёт Mallard.",
+                "polish": "Samolot akrobacyjny Mallard.",
+                "korean": "Mallard 곡예 비행기.",
+                "hindi": "Mallard स्टंट विमान।",
+                "urdu": "Mallard اسٹنٹ طیارہ۔"
               },
               "buttons": [
                 "B",
@@ -1223,10 +2718,36 @@
             {
               "id": "xb-gta5-spawn-duster",
               "title": {
-                "english": "Spawn Duster"
+                "english": "Spawn Duster",
+                "french": "Faire apparaître Duster",
+                "portuguese": "Gerar Duster",
+                "german": "Duster spawnen",
+                "arabic": "استدعاء Duster",
+                "spanish": "Generar Duster",
+                "italian": "Genera Duster",
+                "chinese-simplified": "生成 Duster",
+                "chinese-traditional": "生成 Duster",
+                "russian": "Вызвать Duster",
+                "polish": "Przywołaj Duster",
+                "korean": "Duster 소환",
+                "hindi": "Duster स्पॉन करें",
+                "urdu": "Duster اسپان کریں"
               },
               "description": {
-                "english": "Crop duster plane."
+                "english": "Crop duster plane.",
+                "french": "Avion d'épandage.",
+                "portuguese": "Avião agrícola.",
+                "german": "Agrarflugzeug.",
+                "arabic": "طائرة رش زراعي.",
+                "spanish": "Avioneta fumigadora.",
+                "italian": "Aereo agricolo.",
+                "chinese-simplified": "农用喷洒飞机。",
+                "chinese-traditional": "農用噴灑飛機。",
+                "russian": "Самолёт-опылитель.",
+                "polish": "Samolot rolniczy.",
+                "korean": "농약 살포기.",
+                "hindi": "फसल छिड़काव विमान।",
+                "urdu": "فصل اسپرے طیارہ۔"
               },
               "buttons": [
                 "Right",
@@ -1246,10 +2767,36 @@
             {
               "id": "xb-gta5-spawn-limo",
               "title": {
-                "english": "Spawn Limo"
+                "english": "Spawn Limo",
+                "french": "Faire apparaître Stretch",
+                "portuguese": "Gerar Stretch",
+                "german": "Stretch spawnen",
+                "arabic": "استدعاء Stretch",
+                "spanish": "Generar Stretch",
+                "italian": "Genera Stretch",
+                "chinese-simplified": "生成 Stretch",
+                "chinese-traditional": "生成 Stretch",
+                "russian": "Вызвать Stretch",
+                "polish": "Przywołaj Stretch",
+                "korean": "Stretch 소환",
+                "hindi": "Stretch स्पॉन करें",
+                "urdu": "Stretch اسپان کریں"
               },
               "description": {
-                "english": "Stretch limousine."
+                "english": "Stretch limousine.",
+                "french": "Limousine allongée.",
+                "portuguese": "Limusine.",
+                "german": "Stretch-Limousine.",
+                "arabic": "سيارة ليموزين طويلة.",
+                "spanish": "Limusina.",
+                "italian": "Limousine.",
+                "chinese-simplified": "加长豪华轿车。",
+                "chinese-traditional": "加長豪華轎車。",
+                "russian": "Лимузин.",
+                "polish": "Limuzyna.",
+                "korean": "리무진.",
+                "hindi": "स्ट्रेच लिमोज़ीन।",
+                "urdu": "لمبی لیموزین۔"
               },
               "buttons": [
                 "RT",
@@ -1266,10 +2813,36 @@
             {
               "id": "xb-gta5-spawn-trashmaster",
               "title": {
-                "english": "Spawn Trashmaster"
+                "english": "Spawn Trashmaster",
+                "french": "Faire apparaître Trashmaster",
+                "portuguese": "Gerar Trashmaster",
+                "german": "Trashmaster spawnen",
+                "arabic": "استدعاء Trashmaster",
+                "spanish": "Generar Trashmaster",
+                "italian": "Genera Trashmaster",
+                "chinese-simplified": "生成 Trashmaster",
+                "chinese-traditional": "生成 Trashmaster",
+                "russian": "Вызвать Trashmaster",
+                "polish": "Przywołaj Trashmaster",
+                "korean": "Trashmaster 소환",
+                "hindi": "Trashmaster स्पॉन करें",
+                "urdu": "Trashmaster اسپان کریں"
               },
               "description": {
-                "english": "Garbage truck."
+                "english": "Garbage truck.",
+                "french": "Camion poubelle.",
+                "portuguese": "Caminhão de lixo.",
+                "german": "Müllwagen.",
+                "arabic": "شاحنة نفايات.",
+                "spanish": "Camión de basura.",
+                "italian": "Camion della spazzatura.",
+                "chinese-simplified": "垃圾车。",
+                "chinese-traditional": "垃圾車。",
+                "russian": "Мусоровоз.",
+                "polish": "Śmieciarka.",
+                "korean": "쓰레기차.",
+                "hindi": "कचरा ट्रक।",
+                "urdu": "کچرا ٹرک۔"
               },
               "buttons": [
                 "B",
@@ -1287,10 +2860,36 @@
             {
               "id": "xb-gta5-spawn-caddy",
               "title": {
-                "english": "Spawn Caddy"
+                "english": "Spawn Caddy",
+                "french": "Faire apparaître Caddy",
+                "portuguese": "Gerar Caddy",
+                "german": "Caddy spawnen",
+                "arabic": "استدعاء Caddy",
+                "spanish": "Generar Caddy",
+                "italian": "Genera Caddy",
+                "chinese-simplified": "生成 Caddy",
+                "chinese-traditional": "生成 Caddy",
+                "russian": "Вызвать Caddy",
+                "polish": "Przywołaj Caddy",
+                "korean": "Caddy 소환",
+                "hindi": "Caddy स्पॉन करें",
+                "urdu": "Caddy اسپان کریں"
               },
               "description": {
-                "english": "Golf cart."
+                "english": "Golf cart.",
+                "french": "Voiturette de golf.",
+                "portuguese": "Carrinho de golfe.",
+                "german": "Golfwagen.",
+                "arabic": "عربة غولف.",
+                "spanish": "Carrito de golf.",
+                "italian": "Golf cart.",
+                "chinese-simplified": "高尔夫球车。",
+                "chinese-traditional": "高爾夫球車。",
+                "russian": "Гольф-кар.",
+                "polish": "Wózek golfowy.",
+                "korean": "골프 카트.",
+                "hindi": "गोल्फ़ कार्ट।",
+                "urdu": "گالف کارٹ۔"
               },
               "buttons": [
                 "B",
@@ -1310,16 +2909,55 @@
         {
           "id": "gta5-world",
           "name": {
-            "english": "World"
+            "english": "World",
+            "french": "Monde",
+            "portuguese": "Mundo",
+            "german": "Welt",
+            "arabic": "العالم",
+            "spanish": "Mundo",
+            "italian": "Mondo",
+            "chinese-simplified": "世界",
+            "chinese-traditional": "世界",
+            "russian": "Мир",
+            "polish": "Świat",
+            "korean": "월드",
+            "hindi": "दुनिया",
+            "urdu": "دنیا"
           },
           "combos": [
             {
               "id": "xb-gta5-change-weather",
               "title": {
-                "english": "Change Weather"
+                "english": "Change Weather",
+                "french": "Changer la météo",
+                "portuguese": "Mudar o clima",
+                "german": "Wetter ändern",
+                "arabic": "تغيير الطقس",
+                "spanish": "Cambiar el clima",
+                "italian": "Cambia meteo",
+                "chinese-simplified": "切换天气",
+                "chinese-traditional": "切換天氣",
+                "russian": "Сменить погоду",
+                "polish": "Zmień pogodę",
+                "korean": "날씨 변경",
+                "hindi": "मौसम बदलें",
+                "urdu": "موسم بدلیں"
               },
               "description": {
-                "english": "Cycles through weather types. Repeat to change again."
+                "english": "Cycles through weather types. Repeat to change again.",
+                "french": "Fait défiler les types de météo. Répétez pour changer à nouveau.",
+                "portuguese": "Alterna entre os tipos de clima. Repita para mudar de novo.",
+                "german": "Wechselt durch die Wetterarten. Wiederholen zum erneuten Wechseln.",
+                "arabic": "يتنقل بين أنواع الطقس. كرّر للتغيير مرة أخرى.",
+                "spanish": "Alterna entre tipos de clima. Repite para cambiar de nuevo.",
+                "italian": "Alterna i tipi di meteo. Ripeti per cambiarlo ancora.",
+                "chinese-simplified": "循环切换天气类型。重复输入可再次切换。",
+                "chinese-traditional": "循環切換天氣類型。重複輸入可再次切換。",
+                "russian": "Переключает типы погоды. Повторите, чтобы сменить снова.",
+                "polish": "Przełącza rodzaje pogody. Powtórz, by zmienić ponownie.",
+                "korean": "날씨 종류를 순환합니다. 반복하면 다시 바뀝니다.",
+                "hindi": "मौसम के प्रकार बदलता है। फिर से बदलने के लिए दोहराएँ।",
+                "urdu": "موسم کی اقسام بدلتا ہے۔ دوبارہ بدلنے کے لیے دہرائیں۔"
               },
               "buttons": [
                 "RT",
@@ -1335,10 +2973,36 @@
             {
               "id": "xb-gta5-moon-gravity",
               "title": {
-                "english": "Moon Gravity"
+                "english": "Moon Gravity",
+                "french": "Gravité lunaire",
+                "portuguese": "Gravidade lunar",
+                "german": "Mondschwerkraft",
+                "arabic": "جاذبية القمر",
+                "spanish": "Gravedad lunar",
+                "italian": "Gravità lunare",
+                "chinese-simplified": "月球重力",
+                "chinese-traditional": "月球重力",
+                "russian": "Лунная гравитация",
+                "polish": "Grawitacja księżycowa",
+                "korean": "달 중력",
+                "hindi": "चाँद जैसा गुरुत्व",
+                "urdu": "چاند جیسی کششِ ثقل"
               },
               "description": {
-                "english": "Lowers gravity for a floaty feel."
+                "english": "Lowers gravity for a floaty feel.",
+                "french": "Réduit la gravité pour une sensation de flottement.",
+                "portuguese": "Reduz a gravidade para uma sensação de flutuação.",
+                "german": "Verringert die Schwerkraft für ein schwebendes Gefühl.",
+                "arabic": "يخفض الجاذبية لإحساس بالطفو.",
+                "spanish": "Reduce la gravedad para una sensación de flotar.",
+                "italian": "Riduce la gravità per una sensazione di galleggiamento.",
+                "chinese-simplified": "降低重力，带来漂浮感。",
+                "chinese-traditional": "降低重力，帶來漂浮感。",
+                "russian": "Снижает гравитацию для ощущения парения.",
+                "polish": "Zmniejsza grawitację, dając uczucie unoszenia.",
+                "korean": "중력을 낮춰 둥둥 뜨는 느낌을 줍니다.",
+                "hindi": "गुरुत्व कम करता है ताकि तैरने जैसा लगे।",
+                "urdu": "کششِ ثقل کم کرتا ہے تاکہ تیرنے جیسا لگے۔"
               },
               "buttons": [
                 "Left",
@@ -1355,10 +3019,36 @@
             {
               "id": "xb-gta5-slippery-cars",
               "title": {
-                "english": "Slippery Cars"
+                "english": "Slippery Cars",
+                "french": "Voitures glissantes",
+                "portuguese": "Carros escorregadios",
+                "german": "Rutschige Autos",
+                "arabic": "سيارات زلقة",
+                "spanish": "Coches resbaladizos",
+                "italian": "Auto scivolose",
+                "chinese-simplified": "车辆打滑",
+                "chinese-traditional": "車輛打滑",
+                "russian": "Скользкие машины",
+                "polish": "Śliskie samochody",
+                "korean": "미끄러운 차량",
+                "hindi": "फिसलन वाली कारें",
+                "urdu": "پھسلنے والی گاڑیاں"
               },
               "description": {
-                "english": "Makes all cars slide like on ice."
+                "english": "Makes all cars slide like on ice.",
+                "french": "Toutes les voitures glissent comme sur la glace.",
+                "portuguese": "Faz todos os carros deslizarem como no gelo.",
+                "german": "Alle Autos rutschen wie auf Eis.",
+                "arabic": "تجعل جميع السيارات تنزلق كأنها على الجليد.",
+                "spanish": "Hace que todos los coches derrapen como sobre hielo.",
+                "italian": "Tutte le auto scivolano come sul ghiaccio.",
+                "chinese-simplified": "所有车辆像在冰上一样打滑。",
+                "chinese-traditional": "所有車輛像在冰上一樣打滑。",
+                "russian": "Все машины скользят, как по льду.",
+                "polish": "Wszystkie auta ślizgają się jak po lodzie.",
+                "korean": "모든 차량이 빙판처럼 미끄러집니다.",
+                "hindi": "सभी कारें बर्फ़ की तरह फिसलती हैं।",
+                "urdu": "تمام گاڑیاں برف کی طرح پھسلتی ہیں۔"
               },
               "buttons": [
                 "Y",
@@ -1374,10 +3064,36 @@
             {
               "id": "xb-gta5-slow-motion",
               "title": {
-                "english": "Slow Motion"
+                "english": "Slow Motion",
+                "french": "Ralenti",
+                "portuguese": "Câmera lenta",
+                "german": "Zeitlupe",
+                "arabic": "الحركة البطيئة",
+                "spanish": "Cámara lenta",
+                "italian": "Rallentatore",
+                "chinese-simplified": "慢动作",
+                "chinese-traditional": "慢動作",
+                "russian": "Замедление",
+                "polish": "Zwolnione tempo",
+                "korean": "슬로 모션",
+                "hindi": "स्लो मोशन",
+                "urdu": "سلو موشن"
               },
               "description": {
-                "english": "Slows down time. Enter up to 3 times for stronger effect."
+                "english": "Slows down time. Enter up to 3 times for stronger effect.",
+                "french": "Ralentit le temps. Saisissez jusqu'à 3 fois pour un effet plus fort.",
+                "portuguese": "Desacelera o tempo. Digite até 3 vezes para efeito maior.",
+                "german": "Verlangsamt die Zeit. Bis zu 3-mal eingeben für stärkeren Effekt.",
+                "arabic": "يبطئ الوقت. أدخله حتى 3 مرات لتأثير أقوى.",
+                "spanish": "Ralentiza el tiempo. Introdúcelo hasta 3 veces para más efecto.",
+                "italian": "Rallenta il tempo. Inseriscilo fino a 3 volte per un effetto più forte.",
+                "chinese-simplified": "减慢时间。最多输入 3 次以增强效果。",
+                "chinese-traditional": "減慢時間。最多輸入 3 次以增強效果。",
+                "russian": "Замедляет время. Введите до 3 раз для усиления.",
+                "polish": "Spowalnia czas. Wpisz do 3 razy dla mocniejszego efektu.",
+                "korean": "시간이 느려집니다. 최대 3번 입력하면 효과가 강해집니다.",
+                "hindi": "समय धीमा करता है। ज़्यादा असर के लिए 3 बार तक डालें।",
+                "urdu": "وقت سست کرتا ہے۔ زیادہ اثر کے لیے 3 بار تک ڈالیں۔"
               },
               "buttons": [
                 "Y",

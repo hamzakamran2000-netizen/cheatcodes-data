@@ -1,1041 +1,696 @@
 {
-  "version": "2026-09-23-1",
+  "version": "2026-11-18-gta5-1",
   "consoles": {
     "playstation": {
       "categories": [
         {
-          "id": "category-1",
+          "id": "gta5-player",
           "name": {
-            "english": "Category 1",
-            "french": "Catégorie 1",
-            "portuguese": "Categoria 1",
-            "german": "Kategorie 1",
-            "arabic": "فئة 1",
-            "spanish": "Categoría 1",
-            "italian": "Categoria 1",
-            "chinese-simplified": "分类 1",
-            "chinese-traditional": "分類 1",
-            "russian": "Категория 1",
-            "polish": "Kategoria 1",
-            "korean": "카테고리 1",
-            "hindi": "श्रेणी 1",
-            "urdu": "زمرہ 1"
+            "english": "Player"
           },
           "combos": [
             {
-              "id": "ps-c1-combo1",
+              "id": "ps-gta5-invincibility-5-min",
               "title": {
-                "english": "Combo 1",
-                "french": "Combo 1",
-                "portuguese": "Combo 1",
-                "german": "Combo 1",
-                "arabic": "كومبو 1",
-                "spanish": "Combo 1",
-                "italian": "Combo 1",
-                "chinese-simplified": "连招 1",
-                "chinese-traditional": "連招 1",
-                "russian": "Комбо 1",
-                "polish": "Combo 1",
-                "korean": "콤보 1",
-                "hindi": "कॉम्बो 1",
-                "urdu": "کومبو 1"
+                "english": "Invincibility (5 min)"
               },
               "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
+                "english": "Become invincible for five minutes."
               },
               "buttons": [
-                "L1",
-                "R1",
-                "Triangle"
-              ]
-            },
-            {
-              "id": "ps-c1-combo2",
-              "title": {
-                "english": "Combo 2",
-                "french": "Combo 2",
-                "portuguese": "Combo 2",
-                "german": "Combo 2",
-                "arabic": "كومبو 2",
-                "spanish": "Combo 2",
-                "italian": "Combo 2",
-                "chinese-simplified": "连招 2",
-                "chinese-traditional": "連招 2",
-                "russian": "Комбо 2",
-                "polish": "Combo 2",
-                "korean": "콤보 2",
-                "hindi": "कॉम्बो 2",
-                "urdu": "کومبو 2"
-              },
-              "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
-              },
-              "buttons": [
-                "L2",
-                "Circle"
-              ]
-            },
-            {
-              "id": "ps-c1-combo3",
-              "title": {
-                "english": "Combo 3",
-                "french": "Combo 3",
-                "portuguese": "Combo 3",
-                "german": "Combo 3",
-                "arabic": "كومبو 3",
-                "spanish": "Combo 3",
-                "italian": "Combo 3",
-                "chinese-simplified": "连招 3",
-                "chinese-traditional": "連招 3",
-                "russian": "Комбо 3",
-                "polish": "Combo 3",
-                "korean": "콤보 3",
-                "hindi": "कॉम्बो 3",
-                "urdu": "کومبو 3"
-              },
-              "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
-              },
-              "buttons": [
-                "Square",
+                "Right",
                 "X",
-                "R2"
-              ]
-            },
-            {
-              "id": "ps-c1-combo4",
-              "title": {
-                "english": "Combo 4",
-                "french": "Combo 4",
-                "portuguese": "Combo 4",
-                "german": "Combo 4",
-                "arabic": "كومبو 4",
-                "spanish": "Combo 4",
-                "italian": "Combo 4",
-                "chinese-simplified": "连招 4",
-                "chinese-traditional": "連招 4",
-                "russian": "Комбо 4",
-                "polish": "Combo 4",
-                "korean": "콤보 4",
-                "hindi": "कॉम्बो 4",
-                "urdu": "کومبو 4"
-              },
-              "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
-              },
-              "buttons": [
-                "Up",
-                "Down",
+                "Right",
+                "Left",
+                "Right",
+                "R1",
+                "Right",
+                "Left",
+                "X",
                 "Triangle"
               ]
             },
             {
-              "id": "ps-c1-combo5",
+              "id": "ps-gta5-max-health-armor",
               "title": {
-                "english": "Combo 5",
-                "french": "Combo 5",
-                "portuguese": "Combo 5",
-                "german": "Combo 5",
-                "arabic": "كومبو 5",
-                "spanish": "Combo 5",
-                "italian": "Combo 5",
-                "chinese-simplified": "连招 5",
-                "chinese-traditional": "連招 5",
-                "russian": "Комбо 5",
-                "polish": "Combo 5",
-                "korean": "콤보 5",
-                "hindi": "कॉम्बो 5",
-                "urdu": "کومبو 5"
+                "english": "Max Health & Armor"
               },
               "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
+                "english": "Refills health and armor and repairs your vehicle."
               },
               "buttons": [
+                "Circle",
+                "L1",
+                "Triangle",
+                "R2",
+                "X",
+                "Square",
+                "Circle",
+                "Right",
+                "Square",
                 "L1",
                 "L1",
-                "Circle"
+                "L1"
               ]
             },
             {
-              "id": "ps-c1-combo6",
+              "id": "ps-gta5-lower-wanted-level",
               "title": {
-                "english": "Combo 6",
-                "french": "Combo 6",
-                "portuguese": "Combo 6",
-                "german": "Combo 6",
-                "arabic": "كومبو 6",
-                "spanish": "Combo 6",
-                "italian": "Combo 6",
-                "chinese-simplified": "连招 6",
-                "chinese-traditional": "連招 6",
-                "russian": "Комбо 6",
-                "polish": "Combo 6",
-                "korean": "콤보 6",
-                "hindi": "कॉम्बो 6",
-                "urdu": "کومبو 6"
+                "english": "Lower Wanted Level"
               },
               "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
+                "english": "Removes one wanted star."
               },
               "buttons": [
                 "R1",
-                "Square"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "category-2",
-          "name": {
-            "english": "Category 2",
-            "french": "Catégorie 2",
-            "portuguese": "Categoria 2",
-            "german": "Kategorie 2",
-            "arabic": "فئة 2",
-            "spanish": "Categoría 2",
-            "italian": "Categoria 2",
-            "chinese-simplified": "分类 2",
-            "chinese-traditional": "分類 2",
-            "russian": "Категория 2",
-            "polish": "Kategoria 2",
-            "korean": "카테고리 2",
-            "hindi": "श्रेणी 2",
-            "urdu": "زمرہ 2"
-          },
-          "combos": [
-            {
-              "id": "ps-c2-combo1",
-              "title": {
-                "english": "Combo 1",
-                "french": "Combo 1",
-                "portuguese": "Combo 1",
-                "german": "Combo 1",
-                "arabic": "كومبو 1",
-                "spanish": "Combo 1",
-                "italian": "Combo 1",
-                "chinese-simplified": "连招 1",
-                "chinese-traditional": "連招 1",
-                "russian": "Комбо 1",
-                "polish": "Combo 1",
-                "korean": "콤보 1",
-                "hindi": "कॉम्बो 1",
-                "urdu": "کومبو 1"
-              },
-              "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
-              },
-              "buttons": [
-                "Triangle",
+                "R1",
                 "Circle",
-                "X"
+                "R2",
+                "Right",
+                "Left",
+                "Right",
+                "Left",
+                "Right",
+                "Left"
               ]
             },
             {
-              "id": "ps-c2-combo2",
+              "id": "ps-gta5-raise-wanted-level",
               "title": {
-                "english": "Combo 2",
-                "french": "Combo 2",
-                "portuguese": "Combo 2",
-                "german": "Combo 2",
-                "arabic": "كومبو 2",
-                "spanish": "Combo 2",
-                "italian": "Combo 2",
-                "chinese-simplified": "连招 2",
-                "chinese-traditional": "連招 2",
-                "russian": "Комбо 2",
-                "polish": "Combo 2",
-                "korean": "콤보 2",
-                "hindi": "कॉम्बो 2",
-                "urdu": "کومبو 2"
+                "english": "Raise Wanted Level"
               },
               "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
+                "english": "Adds one wanted star."
               },
               "buttons": [
-                "L2",
-                "R2"
-              ]
-            },
-            {
-              "id": "ps-c2-combo3",
-              "title": {
-                "english": "Combo 3",
-                "french": "Combo 3",
-                "portuguese": "Combo 3",
-                "german": "Combo 3",
-                "arabic": "كومبو 3",
-                "spanish": "Combo 3",
-                "italian": "Combo 3",
-                "chinese-simplified": "连招 3",
-                "chinese-traditional": "連招 3",
-                "russian": "Комбо 3",
-                "polish": "Combo 3",
-                "korean": "콤보 3",
-                "hindi": "कॉम्बो 3",
-                "urdu": "کومبو 3"
-              },
-              "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
-              },
-              "buttons": [
-                "Square",
+                "R1",
+                "R1",
+                "Circle",
+                "R2",
+                "Left",
+                "Right",
+                "Left",
+                "Right",
                 "Left",
                 "Right"
               ]
             },
             {
-              "id": "ps-c2-combo4",
+              "id": "ps-gta5-recharge-special-ability",
               "title": {
-                "english": "Combo 4",
-                "french": "Combo 4",
-                "portuguese": "Combo 4",
-                "german": "Combo 4",
-                "arabic": "كومبو 4",
-                "spanish": "Combo 4",
-                "italian": "Combo 4",
-                "chinese-simplified": "连招 4",
-                "chinese-traditional": "連招 4",
-                "russian": "Комбо 4",
-                "polish": "Combo 4",
-                "korean": "콤보 4",
-                "hindi": "कॉम्बो 4",
-                "urdu": "کومبو 4"
+                "english": "Recharge Special Ability"
               },
               "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
-              },
-              "buttons": [
-                "R1",
-                "Triangle",
-                "Triangle"
-              ]
-            },
-            {
-              "id": "ps-c2-combo5",
-              "title": {
-                "english": "Combo 5",
-                "french": "Combo 5",
-                "portuguese": "Combo 5",
-                "german": "Combo 5",
-                "arabic": "كومبو 5",
-                "spanish": "Combo 5",
-                "italian": "Combo 5",
-                "chinese-simplified": "连招 5",
-                "chinese-traditional": "連招 5",
-                "russian": "Комбо 5",
-                "polish": "Combo 5",
-                "korean": "콤보 5",
-                "hindi": "कॉम्बो 5",
-                "urdu": "کومبو 5"
-              },
-              "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
-              },
-              "buttons": [
-                "Up",
-                "Up",
-                "Down"
-              ]
-            },
-            {
-              "id": "ps-c2-combo6",
-              "title": {
-                "english": "Combo 6",
-                "french": "Combo 6",
-                "portuguese": "Combo 6",
-                "german": "Combo 6",
-                "arabic": "كومبو 6",
-                "spanish": "Combo 6",
-                "italian": "Combo 6",
-                "chinese-simplified": "连招 6",
-                "chinese-traditional": "連招 6",
-                "russian": "Комбо 6",
-                "polish": "Combo 6",
-                "korean": "콤보 6",
-                "hindi": "कॉम्बो 6",
-                "urdu": "کومبو 6"
-              },
-              "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
-              },
-              "buttons": [
-                "Circle",
-                "L1"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "category-3",
-          "name": {
-            "english": "Category 3",
-            "french": "Catégorie 3",
-            "portuguese": "Categoria 3",
-            "german": "Kategorie 3",
-            "arabic": "فئة 3",
-            "spanish": "Categoría 3",
-            "italian": "Categoria 3",
-            "chinese-simplified": "分类 3",
-            "chinese-traditional": "分類 3",
-            "russian": "Категория 3",
-            "polish": "Kategoria 3",
-            "korean": "카테고리 3",
-            "hindi": "श्रेणी 3",
-            "urdu": "زمرہ 3"
-          },
-          "combos": [
-            {
-              "id": "ps-c3-combo1",
-              "title": {
-                "english": "Combo 1",
-                "french": "Combo 1",
-                "portuguese": "Combo 1",
-                "german": "Combo 1",
-                "arabic": "كومبو 1",
-                "spanish": "Combo 1",
-                "italian": "Combo 1",
-                "chinese-simplified": "连招 1",
-                "chinese-traditional": "連招 1",
-                "russian": "Комбо 1",
-                "polish": "Combo 1",
-                "korean": "콤보 1",
-                "hindi": "कॉम्बो 1",
-                "urdu": "کومبو 1"
-              },
-              "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
+                "english": "Fully refills your character's special ability."
               },
               "buttons": [
                 "X",
+                "X",
                 "Square",
-                "L1"
-              ]
-            },
-            {
-              "id": "ps-c3-combo2",
-              "title": {
-                "english": "Combo 2",
-                "french": "Combo 2",
-                "portuguese": "Combo 2",
-                "german": "Combo 2",
-                "arabic": "كومبو 2",
-                "spanish": "Combo 2",
-                "italian": "Combo 2",
-                "chinese-simplified": "连招 2",
-                "chinese-traditional": "連招 2",
-                "russian": "Комбо 2",
-                "polish": "Combo 2",
-                "korean": "콤보 2",
-                "hindi": "कॉम्बो 2",
-                "urdu": "کومبو 2"
-              },
-              "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
-              },
-              "buttons": [
-                "R2",
-                "Circle"
-              ]
-            },
-            {
-              "id": "ps-c3-combo3",
-              "title": {
-                "english": "Combo 3",
-                "french": "Combo 3",
-                "portuguese": "Combo 3",
-                "german": "Combo 3",
-                "arabic": "كومبو 3",
-                "spanish": "Combo 3",
-                "italian": "Combo 3",
-                "chinese-simplified": "连招 3",
-                "chinese-traditional": "連招 3",
-                "russian": "Комбо 3",
-                "polish": "Combo 3",
-                "korean": "콤보 3",
-                "hindi": "कॉम्बो 3",
-                "urdu": "کومبو 3"
-              },
-              "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
-              },
-              "buttons": [
-                "Triangle",
-                "Down",
+                "R1",
+                "L1",
+                "X",
+                "Right",
+                "Left",
                 "X"
               ]
             },
             {
-              "id": "ps-c3-combo4",
+              "id": "ps-gta5-fast-run",
               "title": {
-                "english": "Combo 4",
-                "french": "Combo 4",
-                "portuguese": "Combo 4",
-                "german": "Combo 4",
-                "arabic": "كومبو 4",
-                "spanish": "Combo 4",
-                "italian": "Combo 4",
-                "chinese-simplified": "连招 4",
-                "chinese-traditional": "連招 4",
-                "russian": "Комбо 4",
-                "polish": "Combo 4",
-                "korean": "콤보 4",
-                "hindi": "कॉम्बो 4",
-                "urdu": "کومبو 4"
+                "english": "Fast Run"
               },
               "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
+                "english": "Sprint much faster on foot."
               },
               "buttons": [
+                "Triangle",
+                "Left",
+                "Right",
+                "Right",
+                "L2",
                 "L1",
-                "R1",
-                "L1",
-                "R1"
-              ]
-            },
-            {
-              "id": "ps-c3-combo5",
-              "title": {
-                "english": "Combo 5",
-                "french": "Combo 5",
-                "portuguese": "Combo 5",
-                "german": "Combo 5",
-                "arabic": "كومبو 5",
-                "spanish": "Combo 5",
-                "italian": "Combo 5",
-                "chinese-simplified": "连招 5",
-                "chinese-traditional": "連招 5",
-                "russian": "Комбо 5",
-                "polish": "Combo 5",
-                "korean": "콤보 5",
-                "hindi": "कॉम्बो 5",
-                "urdu": "کومبو 5"
-              },
-              "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
-              },
-              "buttons": [
-                "Square",
                 "Square"
               ]
             },
             {
-              "id": "ps-c3-combo6",
+              "id": "ps-gta5-fast-swim",
               "title": {
-                "english": "Combo 6",
-                "french": "Combo 6",
-                "portuguese": "Combo 6",
-                "german": "Combo 6",
-                "arabic": "كومبو 6",
-                "spanish": "Combo 6",
-                "italian": "Combo 6",
-                "chinese-simplified": "连招 6",
-                "chinese-traditional": "連招 6",
-                "russian": "Комбо 6",
-                "polish": "Combo 6",
-                "korean": "콤보 6",
-                "hindi": "कॉम्बो 6",
-                "urdu": "کومبو 6"
+                "english": "Fast Swim"
               },
               "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
+                "english": "Swim much faster."
               },
               "buttons": [
                 "Left",
+                "Left",
+                "L1",
+                "Right",
+                "Right",
                 "R2",
-                "Circle"
+                "Left",
+                "L2",
+                "Right"
+              ]
+            },
+            {
+              "id": "ps-gta5-super-jump",
+              "title": {
+                "english": "Super Jump"
+              },
+              "description": {
+                "english": "Jump extremely high."
+              },
+              "buttons": [
+                "Left",
+                "Left",
+                "Triangle",
+                "Triangle",
+                "Right",
+                "Right",
+                "Left",
+                "Right",
+                "Square",
+                "R1",
+                "R2"
+              ]
+            },
+            {
+              "id": "ps-gta5-drunk-mode",
+              "title": {
+                "english": "Drunk Mode"
+              },
+              "description": {
+                "english": "Your character stumbles around drunk."
+              },
+              "buttons": [
+                "Triangle",
+                "Right",
+                "Right",
+                "Left",
+                "Right",
+                "Square",
+                "Circle",
+                "Left"
+              ]
+            },
+            {
+              "id": "ps-gta5-skyfall",
+              "title": {
+                "english": "Skyfall"
+              },
+              "description": {
+                "english": "Launches you high into the sky to free-fall."
+              },
+              "buttons": [
+                "L1",
+                "L2",
+                "R1",
+                "R2",
+                "Left",
+                "Right",
+                "Left",
+                "Right",
+                "L1",
+                "L2",
+                "R1",
+                "R2",
+                "Left",
+                "Right",
+                "Left",
+                "Right"
+              ]
+            },
+            {
+              "id": "ps-gta5-parachute",
+              "title": {
+                "english": "Parachute"
+              },
+              "description": {
+                "english": "Gives you a parachute."
+              },
+              "buttons": [
+                "Left",
+                "Right",
+                "L1",
+                "L2",
+                "R1",
+                "R2",
+                "R2",
+                "Left",
+                "Left",
+                "Right",
+                "L1"
               ]
             }
           ]
         },
         {
-          "id": "category-4",
+          "id": "gta5-combat",
           "name": {
-            "english": "Category 4",
-            "french": "Catégorie 4",
-            "portuguese": "Categoria 4",
-            "german": "Kategorie 4",
-            "arabic": "فئة 4",
-            "spanish": "Categoría 4",
-            "italian": "Categoria 4",
-            "chinese-simplified": "分类 4",
-            "chinese-traditional": "分類 4",
-            "russian": "Категория 4",
-            "polish": "Kategoria 4",
-            "korean": "카테고리 4",
-            "hindi": "श्रेणी 4",
-            "urdu": "زمرہ 4"
+            "english": "Weapons & Combat"
           },
           "combos": [
             {
-              "id": "ps-c4-combo1",
+              "id": "ps-gta5-all-weapons-ammo",
               "title": {
-                "english": "Combo 1",
-                "french": "Combo 1",
-                "portuguese": "Combo 1",
-                "german": "Combo 1",
-                "arabic": "كومبو 1",
-                "spanish": "Combo 1",
-                "italian": "Combo 1",
-                "chinese-simplified": "连招 1",
-                "chinese-traditional": "連招 1",
-                "russian": "Комбо 1",
-                "polish": "Combo 1",
-                "korean": "콤보 1",
-                "hindi": "कॉम्बो 1",
-                "urdu": "کومبو 1"
+                "english": "All Weapons & Ammo"
               },
               "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
+                "english": "Gives you a full set of weapons with ammo."
+              },
+              "buttons": [
+                "Triangle",
+                "R2",
+                "Left",
+                "L1",
+                "X",
+                "Right",
+                "Triangle",
+                "Down",
+                "Square",
+                "L1",
+                "L1",
+                "L1"
+              ]
+            },
+            {
+              "id": "ps-gta5-explosive-ammo-rounds",
+              "title": {
+                "english": "Explosive Ammo Rounds"
+              },
+              "description": {
+                "english": "Your bullets explode on impact."
               },
               "buttons": [
                 "Right",
+                "Square",
+                "X",
+                "Left",
+                "R1",
+                "R2",
+                "Left",
+                "Right",
+                "Right",
+                "L1",
+                "L1",
+                "L1"
+              ]
+            },
+            {
+              "id": "ps-gta5-flaming-bullets",
+              "title": {
+                "english": "Flaming Bullets"
+              },
+              "description": {
+                "english": "Your bullets set targets on fire."
+              },
+              "buttons": [
+                "L1",
+                "R1",
+                "Square",
+                "R1",
+                "Left",
+                "R2",
+                "R1",
+                "Left",
+                "Square",
+                "Right",
+                "L1",
+                "L1"
+              ]
+            },
+            {
+              "id": "ps-gta5-explosive-melee-attacks",
+              "title": {
+                "english": "Explosive Melee Attacks"
+              },
+              "description": {
+                "english": "Punches and melee hits cause explosions."
+              },
+              "buttons": [
+                "Right",
+                "Left",
+                "X",
+                "Triangle",
+                "R1",
+                "Circle",
+                "Circle",
+                "Circle",
+                "L2"
+              ]
+            },
+            {
+              "id": "ps-gta5-slow-motion-aim",
+              "title": {
+                "english": "Slow Motion Aim"
+              },
+              "description": {
+                "english": "Slows time while aiming. Enter up to 4 times for stronger effect."
+              },
+              "buttons": [
+                "Square",
+                "L2",
+                "R1",
+                "Triangle",
+                "Left",
+                "Square",
+                "L2",
+                "Right",
+                "X"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "gta5-vehicles",
+          "name": {
+            "english": "Vehicles"
+          },
+          "combos": [
+            {
+              "id": "ps-gta5-spawn-buzzard-helicopter",
+              "title": {
+                "english": "Spawn Buzzard Helicopter"
+              },
+              "description": {
+                "english": "Attack helicopter with missiles."
+              },
+              "buttons": [
+                "Circle",
+                "Circle",
+                "L1",
+                "Circle",
+                "Circle",
+                "Circle",
+                "L1",
+                "L2",
+                "R1",
+                "Triangle",
+                "Circle",
                 "Triangle"
               ]
             },
             {
-              "id": "ps-c4-combo2",
+              "id": "ps-gta5-spawn-comet",
               "title": {
-                "english": "Combo 2",
-                "french": "Combo 2",
-                "portuguese": "Combo 2",
-                "german": "Combo 2",
-                "arabic": "كومبو 2",
-                "spanish": "Combo 2",
-                "italian": "Combo 2",
-                "chinese-simplified": "连招 2",
-                "chinese-traditional": "連招 2",
-                "russian": "Комбо 2",
-                "polish": "Combo 2",
-                "korean": "콤보 2",
-                "hindi": "कॉम्बो 2",
-                "urdu": "کومبو 2"
+                "english": "Spawn Comet"
               },
               "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
+                "english": "Fast sports car."
               },
               "buttons": [
+                "R1",
+                "Circle",
+                "R2",
+                "Right",
+                "L1",
                 "L2",
                 "X",
-                "Square"
-              ]
-            },
-            {
-              "id": "ps-c4-combo3",
-              "title": {
-                "english": "Combo 3",
-                "french": "Combo 3",
-                "portuguese": "Combo 3",
-                "german": "Combo 3",
-                "arabic": "كومبو 3",
-                "spanish": "Combo 3",
-                "italian": "Combo 3",
-                "chinese-simplified": "连招 3",
-                "chinese-traditional": "連招 3",
-                "russian": "Комбо 3",
-                "polish": "Combo 3",
-                "korean": "콤보 3",
-                "hindi": "कॉम्बो 3",
-                "urdu": "کومبو 3"
-              },
-              "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
-              },
-              "buttons": [
-                "Circle",
+                "X",
+                "Square",
                 "R1"
               ]
             },
             {
-              "id": "ps-c4-combo4",
+              "id": "ps-gta5-spawn-rapid-gt",
               "title": {
-                "english": "Combo 4",
-                "french": "Combo 4",
-                "portuguese": "Combo 4",
-                "german": "Combo 4",
-                "arabic": "كومبو 4",
-                "spanish": "Combo 4",
-                "italian": "Combo 4",
-                "chinese-simplified": "连招 4",
-                "chinese-traditional": "連招 4",
-                "russian": "Комбо 4",
-                "polish": "Combo 4",
-                "korean": "콤보 4",
-                "hindi": "कॉम्बो 4",
-                "urdu": "کومبو 4"
+                "english": "Spawn Rapid GT"
               },
               "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
+                "english": "Sports convertible."
               },
               "buttons": [
-                "Up",
-                "Triangle",
-                "Down"
-              ]
-            },
-            {
-              "id": "ps-c4-combo5",
-              "title": {
-                "english": "Combo 5",
-                "french": "Combo 5",
-                "portuguese": "Combo 5",
-                "german": "Combo 5",
-                "arabic": "كومبو 5",
-                "spanish": "Combo 5",
-                "italian": "Combo 5",
-                "chinese-simplified": "连招 5",
-                "chinese-traditional": "連招 5",
-                "russian": "Комбо 5",
-                "polish": "Combo 5",
-                "korean": "콤보 5",
-                "hindi": "कॉम्बो 5",
-                "urdu": "کومبو 5"
-              },
-              "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
-              },
-              "buttons": [
-                "Square",
+                "R2",
                 "L1",
+                "Circle",
+                "Right",
+                "L1",
+                "R1",
+                "Right",
+                "Left",
+                "Circle",
                 "R2"
               ]
             },
             {
-              "id": "ps-c4-combo6",
+              "id": "ps-gta5-spawn-pcj-600",
               "title": {
-                "english": "Combo 6",
-                "french": "Combo 6",
-                "portuguese": "Combo 6",
-                "german": "Combo 6",
-                "arabic": "كومبو 6",
-                "spanish": "Combo 6",
-                "italian": "Combo 6",
-                "chinese-simplified": "连招 6",
-                "chinese-traditional": "連招 6",
-                "russian": "Комбо 6",
-                "polish": "Combo 6",
-                "korean": "콤보 6",
-                "hindi": "कॉम्बो 6",
-                "urdu": "کومبو 6"
+                "english": "Spawn PCJ-600"
               },
               "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
+                "english": "Sports motorbike."
               },
               "buttons": [
+                "R1",
+                "Right",
+                "Left",
+                "Right",
+                "R2",
+                "Left",
+                "Right",
+                "Square",
+                "Right",
+                "L2",
+                "L1",
+                "L1"
+              ]
+            },
+            {
+              "id": "ps-gta5-spawn-sanchez",
+              "title": {
+                "english": "Spawn Sanchez"
+              },
+              "description": {
+                "english": "Off-road dirt bike."
+              },
+              "buttons": [
+                "Circle",
                 "X",
+                "L1",
+                "Circle",
+                "Circle",
+                "L1",
+                "Circle",
+                "R1",
+                "R2",
+                "L2",
+                "L1",
+                "L1"
+              ]
+            },
+            {
+              "id": "ps-gta5-spawn-bmx",
+              "title": {
+                "english": "Spawn BMX"
+              },
+              "description": {
+                "english": "BMX bicycle."
+              },
+              "buttons": [
+                "Left",
+                "Left",
+                "Right",
+                "Right",
+                "Left",
+                "Right",
+                "Square",
+                "Circle",
+                "Triangle",
+                "R1",
+                "R2"
+              ]
+            },
+            {
+              "id": "ps-gta5-spawn-stunt-plane",
+              "title": {
+                "english": "Spawn Stunt Plane"
+              },
+              "description": {
+                "english": "Mallard stunt plane."
+              },
+              "buttons": [
+                "Circle",
+                "Right",
+                "L1",
+                "L2",
+                "Left",
+                "R1",
+                "L1",
+                "L1",
+                "Left",
+                "Left",
                 "X",
-                "Circle"
+                "Triangle"
+              ]
+            },
+            {
+              "id": "ps-gta5-spawn-duster",
+              "title": {
+                "english": "Spawn Duster"
+              },
+              "description": {
+                "english": "Crop duster plane."
+              },
+              "buttons": [
+                "Right",
+                "Left",
+                "R1",
+                "R1",
+                "R1",
+                "Left",
+                "Triangle",
+                "Triangle",
+                "X",
+                "Circle",
+                "L1",
+                "L1"
+              ]
+            },
+            {
+              "id": "ps-gta5-spawn-limo",
+              "title": {
+                "english": "Spawn Limo"
+              },
+              "description": {
+                "english": "Stretch limousine."
+              },
+              "buttons": [
+                "R2",
+                "Right",
+                "L2",
+                "Left",
+                "Left",
+                "R1",
+                "L1",
+                "Circle",
+                "Right"
+              ]
+            },
+            {
+              "id": "ps-gta5-spawn-trashmaster",
+              "title": {
+                "english": "Spawn Trashmaster"
+              },
+              "description": {
+                "english": "Garbage truck."
+              },
+              "buttons": [
+                "Circle",
+                "R1",
+                "Circle",
+                "R1",
+                "Left",
+                "Left",
+                "R1",
+                "L1",
+                "Circle",
+                "Right"
+              ]
+            },
+            {
+              "id": "ps-gta5-spawn-caddy",
+              "title": {
+                "english": "Spawn Caddy"
+              },
+              "description": {
+                "english": "Golf cart."
+              },
+              "buttons": [
+                "Circle",
+                "L1",
+                "Left",
+                "R1",
+                "L2",
+                "X",
+                "R1",
+                "L1",
+                "Circle",
+                "X"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "gta5-world",
+          "name": {
+            "english": "World"
+          },
+          "combos": [
+            {
+              "id": "ps-gta5-change-weather",
+              "title": {
+                "english": "Change Weather"
+              },
+              "description": {
+                "english": "Cycles through weather types. Repeat to change again."
+              },
+              "buttons": [
+                "R2",
+                "X",
+                "L1",
+                "L1",
+                "L2",
+                "L2",
+                "L2",
+                "Square"
+              ]
+            },
+            {
+              "id": "ps-gta5-moon-gravity",
+              "title": {
+                "english": "Moon Gravity"
+              },
+              "description": {
+                "english": "Lowers gravity for a floaty feel."
+              },
+              "buttons": [
+                "Left",
+                "Left",
+                "L1",
+                "R1",
+                "L1",
+                "Right",
+                "Left",
+                "L1",
+                "Left"
+              ]
+            },
+            {
+              "id": "ps-gta5-slippery-cars",
+              "title": {
+                "english": "Slippery Cars"
+              },
+              "description": {
+                "english": "Makes all cars slide like on ice."
+              },
+              "buttons": [
+                "Triangle",
+                "R1",
+                "R1",
+                "Left",
+                "R1",
+                "L1",
+                "R2",
+                "L1"
+              ]
+            },
+            {
+              "id": "ps-gta5-slow-motion",
+              "title": {
+                "english": "Slow Motion"
+              },
+              "description": {
+                "english": "Slows down time. Enter up to 3 times for stronger effect."
+              },
+              "buttons": [
+                "Triangle",
+                "Left",
+                "Right",
+                "Right",
+                "Square",
+                "R2",
+                "R1"
               ]
             }
           ]
@@ -1045,1038 +700,693 @@
     "xbox": {
       "categories": [
         {
-          "id": "category-1",
+          "id": "gta5-player",
           "name": {
-            "english": "Category 1",
-            "french": "Catégorie 1",
-            "portuguese": "Categoria 1",
-            "german": "Kategorie 1",
-            "arabic": "فئة 1",
-            "spanish": "Categoría 1",
-            "italian": "Categoria 1",
-            "chinese-simplified": "分类 1",
-            "chinese-traditional": "分類 1",
-            "russian": "Категория 1",
-            "polish": "Kategoria 1",
-            "korean": "카테고리 1",
-            "hindi": "श्रेणी 1",
-            "urdu": "زمرہ 1"
+            "english": "Player"
           },
           "combos": [
             {
-              "id": "xb-c1-combo1",
+              "id": "xb-gta5-invincibility-5-min",
               "title": {
-                "english": "Combo 1",
-                "french": "Combo 1",
-                "portuguese": "Combo 1",
-                "german": "Combo 1",
-                "arabic": "كومبو 1",
-                "spanish": "Combo 1",
-                "italian": "Combo 1",
-                "chinese-simplified": "连招 1",
-                "chinese-traditional": "連招 1",
-                "russian": "Комбо 1",
-                "polish": "Combo 1",
-                "korean": "콤보 1",
-                "hindi": "कॉम्बो 1",
-                "urdu": "کومبو 1"
+                "english": "Invincibility (5 min)"
               },
               "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
+                "english": "Become invincible for five minutes."
               },
               "buttons": [
-                "LB",
-                "RB",
-                "Y"
-              ]
-            },
-            {
-              "id": "xb-c1-combo2",
-              "title": {
-                "english": "Combo 2",
-                "french": "Combo 2",
-                "portuguese": "Combo 2",
-                "german": "Combo 2",
-                "arabic": "كومبو 2",
-                "spanish": "Combo 2",
-                "italian": "Combo 2",
-                "chinese-simplified": "连招 2",
-                "chinese-traditional": "連招 2",
-                "russian": "Комбо 2",
-                "polish": "Combo 2",
-                "korean": "콤보 2",
-                "hindi": "कॉम्बो 2",
-                "urdu": "کومبو 2"
-              },
-              "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
-              },
-              "buttons": [
-                "LT",
-                "B"
-              ]
-            },
-            {
-              "id": "xb-c1-combo3",
-              "title": {
-                "english": "Combo 3",
-                "french": "Combo 3",
-                "portuguese": "Combo 3",
-                "german": "Combo 3",
-                "arabic": "كومبو 3",
-                "spanish": "Combo 3",
-                "italian": "Combo 3",
-                "chinese-simplified": "连招 3",
-                "chinese-traditional": "連招 3",
-                "russian": "Комбо 3",
-                "polish": "Combo 3",
-                "korean": "콤보 3",
-                "hindi": "कॉम्बो 3",
-                "urdu": "کومبو 3"
-              },
-              "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
-              },
-              "buttons": [
-                "X",
+                "Right",
                 "A",
-                "RT"
-              ]
-            },
-            {
-              "id": "xb-c1-combo4",
-              "title": {
-                "english": "Combo 4",
-                "french": "Combo 4",
-                "portuguese": "Combo 4",
-                "german": "Combo 4",
-                "arabic": "كومبو 4",
-                "spanish": "Combo 4",
-                "italian": "Combo 4",
-                "chinese-simplified": "连招 4",
-                "chinese-traditional": "連招 4",
-                "russian": "Комбо 4",
-                "polish": "Combo 4",
-                "korean": "콤보 4",
-                "hindi": "कॉम्बो 4",
-                "urdu": "کومبو 4"
-              },
-              "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
-              },
-              "buttons": [
-                "Up",
-                "Down",
+                "Right",
+                "Left",
+                "Right",
+                "RB",
+                "Right",
+                "Left",
+                "A",
                 "Y"
               ]
             },
             {
-              "id": "xb-c1-combo5",
+              "id": "xb-gta5-max-health-armor",
               "title": {
-                "english": "Combo 5",
-                "french": "Combo 5",
-                "portuguese": "Combo 5",
-                "german": "Combo 5",
-                "arabic": "كومبو 5",
-                "spanish": "Combo 5",
-                "italian": "Combo 5",
-                "chinese-simplified": "连招 5",
-                "chinese-traditional": "連招 5",
-                "russian": "Комбо 5",
-                "polish": "Combo 5",
-                "korean": "콤보 5",
-                "hindi": "कॉम्बो 5",
-                "urdu": "کومبو 5"
+                "english": "Max Health & Armor"
               },
               "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
+                "english": "Refills health and armor and repairs your vehicle."
               },
               "buttons": [
+                "B",
+                "LB",
+                "Y",
+                "RT",
+                "A",
+                "X",
+                "B",
+                "Right",
+                "X",
                 "LB",
                 "LB",
-                "B"
+                "LB"
               ]
             },
             {
-              "id": "xb-c1-combo6",
+              "id": "xb-gta5-lower-wanted-level",
               "title": {
-                "english": "Combo 6",
-                "french": "Combo 6",
-                "portuguese": "Combo 6",
-                "german": "Combo 6",
-                "arabic": "كومبو 6",
-                "spanish": "Combo 6",
-                "italian": "Combo 6",
-                "chinese-simplified": "连招 6",
-                "chinese-traditional": "連招 6",
-                "russian": "Комбо 6",
-                "polish": "Combo 6",
-                "korean": "콤보 6",
-                "hindi": "कॉम्बो 6",
-                "urdu": "کومبو 6"
+                "english": "Lower Wanted Level"
               },
               "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
+                "english": "Removes one wanted star."
               },
               "buttons": [
                 "RB",
-                "X"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "category-2",
-          "name": {
-            "english": "Category 2",
-            "french": "Catégorie 2",
-            "portuguese": "Categoria 2",
-            "german": "Kategorie 2",
-            "arabic": "فئة 2",
-            "spanish": "Categoría 2",
-            "italian": "Categoria 2",
-            "chinese-simplified": "分类 2",
-            "chinese-traditional": "分類 2",
-            "russian": "Категория 2",
-            "polish": "Kategoria 2",
-            "korean": "카테고리 2",
-            "hindi": "श्रेणी 2",
-            "urdu": "زمرہ 2"
-          },
-          "combos": [
-            {
-              "id": "xb-c2-combo1",
-              "title": {
-                "english": "Combo 1",
-                "french": "Combo 1",
-                "portuguese": "Combo 1",
-                "german": "Combo 1",
-                "arabic": "كومبو 1",
-                "spanish": "Combo 1",
-                "italian": "Combo 1",
-                "chinese-simplified": "连招 1",
-                "chinese-traditional": "連招 1",
-                "russian": "Комбо 1",
-                "polish": "Combo 1",
-                "korean": "콤보 1",
-                "hindi": "कॉम्बो 1",
-                "urdu": "کومبو 1"
-              },
-              "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
-              },
-              "buttons": [
-                "Y",
+                "RB",
                 "B",
-                "A"
+                "RT",
+                "Right",
+                "Left",
+                "Right",
+                "Left",
+                "Right",
+                "Left"
               ]
             },
             {
-              "id": "xb-c2-combo2",
+              "id": "xb-gta5-raise-wanted-level",
               "title": {
-                "english": "Combo 2",
-                "french": "Combo 2",
-                "portuguese": "Combo 2",
-                "german": "Combo 2",
-                "arabic": "كومبو 2",
-                "spanish": "Combo 2",
-                "italian": "Combo 2",
-                "chinese-simplified": "连招 2",
-                "chinese-traditional": "連招 2",
-                "russian": "Комбо 2",
-                "polish": "Combo 2",
-                "korean": "콤보 2",
-                "hindi": "कॉम्बो 2",
-                "urdu": "کومبو 2"
+                "english": "Raise Wanted Level"
               },
               "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
+                "english": "Adds one wanted star."
               },
               "buttons": [
-                "LT",
-                "RT"
-              ]
-            },
-            {
-              "id": "xb-c2-combo3",
-              "title": {
-                "english": "Combo 3",
-                "french": "Combo 3",
-                "portuguese": "Combo 3",
-                "german": "Combo 3",
-                "arabic": "كومبو 3",
-                "spanish": "Combo 3",
-                "italian": "Combo 3",
-                "chinese-simplified": "连招 3",
-                "chinese-traditional": "連招 3",
-                "russian": "Комбо 3",
-                "polish": "Combo 3",
-                "korean": "콤보 3",
-                "hindi": "कॉम्बो 3",
-                "urdu": "کومبو 3"
-              },
-              "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
-              },
-              "buttons": [
-                "X",
+                "RB",
+                "RB",
+                "B",
+                "RT",
+                "Left",
+                "Right",
+                "Left",
+                "Right",
                 "Left",
                 "Right"
               ]
             },
             {
-              "id": "xb-c2-combo4",
+              "id": "xb-gta5-recharge-special-ability",
               "title": {
-                "english": "Combo 4",
-                "french": "Combo 4",
-                "portuguese": "Combo 4",
-                "german": "Combo 4",
-                "arabic": "كومبو 4",
-                "spanish": "Combo 4",
-                "italian": "Combo 4",
-                "chinese-simplified": "连招 4",
-                "chinese-traditional": "連招 4",
-                "russian": "Комбо 4",
-                "polish": "Combo 4",
-                "korean": "콤보 4",
-                "hindi": "कॉम्बो 4",
-                "urdu": "کومبو 4"
+                "english": "Recharge Special Ability"
               },
               "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
-              },
-              "buttons": [
-                "RB",
-                "Y",
-                "Y"
-              ]
-            },
-            {
-              "id": "xb-c2-combo5",
-              "title": {
-                "english": "Combo 5",
-                "french": "Combo 5",
-                "portuguese": "Combo 5",
-                "german": "Combo 5",
-                "arabic": "كومبو 5",
-                "spanish": "Combo 5",
-                "italian": "Combo 5",
-                "chinese-simplified": "连招 5",
-                "chinese-traditional": "連招 5",
-                "russian": "Комбо 5",
-                "polish": "Combo 5",
-                "korean": "콤보 5",
-                "hindi": "कॉम्बो 5",
-                "urdu": "کومبو 5"
-              },
-              "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
-              },
-              "buttons": [
-                "Up",
-                "Up",
-                "Down"
-              ]
-            },
-            {
-              "id": "xb-c2-combo6",
-              "title": {
-                "english": "Combo 6",
-                "french": "Combo 6",
-                "portuguese": "Combo 6",
-                "german": "Combo 6",
-                "arabic": "كومبو 6",
-                "spanish": "Combo 6",
-                "italian": "Combo 6",
-                "chinese-simplified": "连招 6",
-                "chinese-traditional": "連招 6",
-                "russian": "Комбо 6",
-                "polish": "Combo 6",
-                "korean": "콤보 6",
-                "hindi": "कॉम्बो 6",
-                "urdu": "کومبو 6"
-              },
-              "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
-              },
-              "buttons": [
-                "B",
-                "LB"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "category-3",
-          "name": {
-            "english": "Category 3",
-            "french": "Catégorie 3",
-            "portuguese": "Categoria 3",
-            "german": "Kategorie 3",
-            "arabic": "فئة 3",
-            "spanish": "Categoría 3",
-            "italian": "Categoria 3",
-            "chinese-simplified": "分类 3",
-            "chinese-traditional": "分類 3",
-            "russian": "Категория 3",
-            "polish": "Kategoria 3",
-            "korean": "카테고리 3",
-            "hindi": "श्रेणी 3",
-            "urdu": "زمرہ 3"
-          },
-          "combos": [
-            {
-              "id": "xb-c3-combo1",
-              "title": {
-                "english": "Combo 1",
-                "french": "Combo 1",
-                "portuguese": "Combo 1",
-                "german": "Combo 1",
-                "arabic": "كومبو 1",
-                "spanish": "Combo 1",
-                "italian": "Combo 1",
-                "chinese-simplified": "连招 1",
-                "chinese-traditional": "連招 1",
-                "russian": "Комбо 1",
-                "polish": "Combo 1",
-                "korean": "콤보 1",
-                "hindi": "कॉम्बो 1",
-                "urdu": "کومبو 1"
-              },
-              "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
+                "english": "Fully refills your character's special ability."
               },
               "buttons": [
                 "A",
+                "A",
                 "X",
-                "LB"
-              ]
-            },
-            {
-              "id": "xb-c3-combo2",
-              "title": {
-                "english": "Combo 2",
-                "french": "Combo 2",
-                "portuguese": "Combo 2",
-                "german": "Combo 2",
-                "arabic": "كومبو 2",
-                "spanish": "Combo 2",
-                "italian": "Combo 2",
-                "chinese-simplified": "连招 2",
-                "chinese-traditional": "連招 2",
-                "russian": "Комбо 2",
-                "polish": "Combo 2",
-                "korean": "콤보 2",
-                "hindi": "कॉम्बो 2",
-                "urdu": "کومبو 2"
-              },
-              "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
-              },
-              "buttons": [
-                "RT",
-                "B"
-              ]
-            },
-            {
-              "id": "xb-c3-combo3",
-              "title": {
-                "english": "Combo 3",
-                "french": "Combo 3",
-                "portuguese": "Combo 3",
-                "german": "Combo 3",
-                "arabic": "كومبو 3",
-                "spanish": "Combo 3",
-                "italian": "Combo 3",
-                "chinese-simplified": "连招 3",
-                "chinese-traditional": "連招 3",
-                "russian": "Комбо 3",
-                "polish": "Combo 3",
-                "korean": "콤보 3",
-                "hindi": "कॉम्बो 3",
-                "urdu": "کومبو 3"
-              },
-              "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
-              },
-              "buttons": [
-                "Y",
-                "Down",
+                "RB",
+                "LB",
+                "A",
+                "Right",
+                "Left",
                 "A"
               ]
             },
             {
-              "id": "xb-c3-combo4",
+              "id": "xb-gta5-fast-run",
               "title": {
-                "english": "Combo 4",
-                "french": "Combo 4",
-                "portuguese": "Combo 4",
-                "german": "Combo 4",
-                "arabic": "كومبو 4",
-                "spanish": "Combo 4",
-                "italian": "Combo 4",
-                "chinese-simplified": "连招 4",
-                "chinese-traditional": "連招 4",
-                "russian": "Комбо 4",
-                "polish": "Combo 4",
-                "korean": "콤보 4",
-                "hindi": "कॉम्बो 4",
-                "urdu": "کومبو 4"
+                "english": "Fast Run"
               },
               "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
+                "english": "Sprint much faster on foot."
               },
               "buttons": [
+                "Y",
+                "Left",
+                "Right",
+                "Right",
+                "LT",
                 "LB",
-                "RB",
-                "LB",
-                "RB"
-              ]
-            },
-            {
-              "id": "xb-c3-combo5",
-              "title": {
-                "english": "Combo 5",
-                "french": "Combo 5",
-                "portuguese": "Combo 5",
-                "german": "Combo 5",
-                "arabic": "كومبو 5",
-                "spanish": "Combo 5",
-                "italian": "Combo 5",
-                "chinese-simplified": "连招 5",
-                "chinese-traditional": "連招 5",
-                "russian": "Комбо 5",
-                "polish": "Combo 5",
-                "korean": "콤보 5",
-                "hindi": "कॉम्बो 5",
-                "urdu": "کومبو 5"
-              },
-              "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
-              },
-              "buttons": [
-                "X",
                 "X"
               ]
             },
             {
-              "id": "xb-c3-combo6",
+              "id": "xb-gta5-fast-swim",
               "title": {
-                "english": "Combo 6",
-                "french": "Combo 6",
-                "portuguese": "Combo 6",
-                "german": "Combo 6",
-                "arabic": "كومبو 6",
-                "spanish": "Combo 6",
-                "italian": "Combo 6",
-                "chinese-simplified": "连招 6",
-                "chinese-traditional": "連招 6",
-                "russian": "Комбо 6",
-                "polish": "Combo 6",
-                "korean": "콤보 6",
-                "hindi": "कॉम्बो 6",
-                "urdu": "کومبو 6"
+                "english": "Fast Swim"
               },
               "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
+                "english": "Swim much faster."
               },
               "buttons": [
                 "Left",
+                "Left",
+                "LB",
+                "Right",
+                "Right",
                 "RT",
-                "B"
+                "Left",
+                "LT",
+                "Right"
+              ]
+            },
+            {
+              "id": "xb-gta5-super-jump",
+              "title": {
+                "english": "Super Jump"
+              },
+              "description": {
+                "english": "Jump extremely high."
+              },
+              "buttons": [
+                "Left",
+                "Left",
+                "Y",
+                "Y",
+                "Right",
+                "Right",
+                "Left",
+                "Right",
+                "X",
+                "RB",
+                "RT"
+              ]
+            },
+            {
+              "id": "xb-gta5-drunk-mode",
+              "title": {
+                "english": "Drunk Mode"
+              },
+              "description": {
+                "english": "Your character stumbles around drunk."
+              },
+              "buttons": [
+                "Y",
+                "Right",
+                "Right",
+                "Left",
+                "Right",
+                "X",
+                "B",
+                "Left"
+              ]
+            },
+            {
+              "id": "xb-gta5-skyfall",
+              "title": {
+                "english": "Skyfall"
+              },
+              "description": {
+                "english": "Launches you high into the sky to free-fall."
+              },
+              "buttons": [
+                "LB",
+                "LT",
+                "RB",
+                "RT",
+                "Left",
+                "Right",
+                "Left",
+                "Right",
+                "LB",
+                "LT",
+                "RB",
+                "RT",
+                "Left",
+                "Right",
+                "Left",
+                "Right"
+              ]
+            },
+            {
+              "id": "xb-gta5-parachute",
+              "title": {
+                "english": "Parachute"
+              },
+              "description": {
+                "english": "Gives you a parachute."
+              },
+              "buttons": [
+                "Left",
+                "Right",
+                "LB",
+                "LT",
+                "RB",
+                "RT",
+                "RT",
+                "Left",
+                "Left",
+                "Right",
+                "LB"
               ]
             }
           ]
         },
         {
-          "id": "category-4",
+          "id": "gta5-combat",
           "name": {
-            "english": "Category 4",
-            "french": "Catégorie 4",
-            "portuguese": "Categoria 4",
-            "german": "Kategorie 4",
-            "arabic": "فئة 4",
-            "spanish": "Categoría 4",
-            "italian": "Categoria 4",
-            "chinese-simplified": "分类 4",
-            "chinese-traditional": "分類 4",
-            "russian": "Категория 4",
-            "polish": "Kategoria 4",
-            "korean": "카테고리 4",
-            "hindi": "श्रेणी 4",
-            "urdu": "زمرہ 4"
+            "english": "Weapons & Combat"
           },
           "combos": [
             {
-              "id": "xb-c4-combo1",
+              "id": "xb-gta5-all-weapons-ammo",
               "title": {
-                "english": "Combo 1",
-                "french": "Combo 1",
-                "portuguese": "Combo 1",
-                "german": "Combo 1",
-                "arabic": "كومبو 1",
-                "spanish": "Combo 1",
-                "italian": "Combo 1",
-                "chinese-simplified": "连招 1",
-                "chinese-traditional": "連招 1",
-                "russian": "Комбо 1",
-                "polish": "Combo 1",
-                "korean": "콤보 1",
-                "hindi": "कॉम्बो 1",
-                "urdu": "کومبو 1"
+                "english": "All Weapons & Ammo"
               },
               "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
+                "english": "Gives you a full set of weapons with ammo."
+              },
+              "buttons": [
+                "Y",
+                "RT",
+                "Left",
+                "LB",
+                "A",
+                "Right",
+                "Y",
+                "Down",
+                "X",
+                "LB",
+                "LB",
+                "LB"
+              ]
+            },
+            {
+              "id": "xb-gta5-explosive-ammo-rounds",
+              "title": {
+                "english": "Explosive Ammo Rounds"
+              },
+              "description": {
+                "english": "Your bullets explode on impact."
               },
               "buttons": [
                 "Right",
+                "X",
+                "A",
+                "Left",
+                "RB",
+                "RT",
+                "Left",
+                "Right",
+                "Right",
+                "LB",
+                "LB",
+                "LB"
+              ]
+            },
+            {
+              "id": "xb-gta5-flaming-bullets",
+              "title": {
+                "english": "Flaming Bullets"
+              },
+              "description": {
+                "english": "Your bullets set targets on fire."
+              },
+              "buttons": [
+                "LB",
+                "RB",
+                "X",
+                "RB",
+                "Left",
+                "RT",
+                "RB",
+                "Left",
+                "X",
+                "Right",
+                "LB",
+                "LB"
+              ]
+            },
+            {
+              "id": "xb-gta5-explosive-melee-attacks",
+              "title": {
+                "english": "Explosive Melee Attacks"
+              },
+              "description": {
+                "english": "Punches and melee hits cause explosions."
+              },
+              "buttons": [
+                "Right",
+                "Left",
+                "A",
+                "Y",
+                "RB",
+                "B",
+                "B",
+                "B",
+                "LT"
+              ]
+            },
+            {
+              "id": "xb-gta5-slow-motion-aim",
+              "title": {
+                "english": "Slow Motion Aim"
+              },
+              "description": {
+                "english": "Slows time while aiming. Enter up to 4 times for stronger effect."
+              },
+              "buttons": [
+                "X",
+                "LT",
+                "RB",
+                "Y",
+                "Left",
+                "X",
+                "LT",
+                "Right",
+                "A"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "gta5-vehicles",
+          "name": {
+            "english": "Vehicles"
+          },
+          "combos": [
+            {
+              "id": "xb-gta5-spawn-buzzard-helicopter",
+              "title": {
+                "english": "Spawn Buzzard Helicopter"
+              },
+              "description": {
+                "english": "Attack helicopter with missiles."
+              },
+              "buttons": [
+                "B",
+                "B",
+                "LB",
+                "B",
+                "B",
+                "B",
+                "LB",
+                "LT",
+                "RB",
+                "Y",
+                "B",
                 "Y"
               ]
             },
             {
-              "id": "xb-c4-combo2",
+              "id": "xb-gta5-spawn-comet",
               "title": {
-                "english": "Combo 2",
-                "french": "Combo 2",
-                "portuguese": "Combo 2",
-                "german": "Combo 2",
-                "arabic": "كومبو 2",
-                "spanish": "Combo 2",
-                "italian": "Combo 2",
-                "chinese-simplified": "连招 2",
-                "chinese-traditional": "連招 2",
-                "russian": "Комбо 2",
-                "polish": "Combo 2",
-                "korean": "콤보 2",
-                "hindi": "कॉम्बो 2",
-                "urdu": "کومبو 2"
+                "english": "Spawn Comet"
               },
               "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
+                "english": "Fast sports car."
               },
               "buttons": [
+                "RB",
+                "B",
+                "RT",
+                "Right",
+                "LB",
                 "LT",
                 "A",
-                "X"
-              ]
-            },
-            {
-              "id": "xb-c4-combo3",
-              "title": {
-                "english": "Combo 3",
-                "french": "Combo 3",
-                "portuguese": "Combo 3",
-                "german": "Combo 3",
-                "arabic": "كومبو 3",
-                "spanish": "Combo 3",
-                "italian": "Combo 3",
-                "chinese-simplified": "连招 3",
-                "chinese-traditional": "連招 3",
-                "russian": "Комбо 3",
-                "polish": "Combo 3",
-                "korean": "콤보 3",
-                "hindi": "कॉम्बो 3",
-                "urdu": "کومبو 3"
-              },
-              "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
-              },
-              "buttons": [
-                "B",
+                "A",
+                "X",
                 "RB"
               ]
             },
             {
-              "id": "xb-c4-combo4",
+              "id": "xb-gta5-spawn-rapid-gt",
               "title": {
-                "english": "Combo 4",
-                "french": "Combo 4",
-                "portuguese": "Combo 4",
-                "german": "Combo 4",
-                "arabic": "كومبو 4",
-                "spanish": "Combo 4",
-                "italian": "Combo 4",
-                "chinese-simplified": "连招 4",
-                "chinese-traditional": "連招 4",
-                "russian": "Комбо 4",
-                "polish": "Combo 4",
-                "korean": "콤보 4",
-                "hindi": "कॉम्बो 4",
-                "urdu": "کومبو 4"
+                "english": "Spawn Rapid GT"
               },
               "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
+                "english": "Sports convertible."
               },
               "buttons": [
-                "Up",
-                "Y",
-                "Down"
-              ]
-            },
-            {
-              "id": "xb-c4-combo5",
-              "title": {
-                "english": "Combo 5",
-                "french": "Combo 5",
-                "portuguese": "Combo 5",
-                "german": "Combo 5",
-                "arabic": "كومبو 5",
-                "spanish": "Combo 5",
-                "italian": "Combo 5",
-                "chinese-simplified": "连招 5",
-                "chinese-traditional": "連招 5",
-                "russian": "Комбо 5",
-                "polish": "Combo 5",
-                "korean": "콤보 5",
-                "hindi": "कॉम्बो 5",
-                "urdu": "کومبو 5"
-              },
-              "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
-              },
-              "buttons": [
-                "X",
+                "RT",
                 "LB",
+                "B",
+                "Right",
+                "LB",
+                "RB",
+                "Right",
+                "Left",
+                "B",
                 "RT"
               ]
             },
             {
-              "id": "xb-c4-combo6",
+              "id": "xb-gta5-spawn-pcj-600",
               "title": {
-                "english": "Combo 6",
-                "french": "Combo 6",
-                "portuguese": "Combo 6",
-                "german": "Combo 6",
-                "arabic": "كومبو 6",
-                "spanish": "Combo 6",
-                "italian": "Combo 6",
-                "chinese-simplified": "连招 6",
-                "chinese-traditional": "連招 6",
-                "russian": "Комбо 6",
-                "polish": "Combo 6",
-                "korean": "콤보 6",
-                "hindi": "कॉम्बो 6",
-                "urdu": "کومبو 6"
+                "english": "Spawn PCJ-600"
               },
               "description": {
-                "english": "Placeholder description for this combo.",
-                "french": "Description provisoire de ce combo.",
-                "portuguese": "Descrição provisória para este combo.",
-                "german": "Platzhalterbeschreibung für diesen Combo.",
-                "arabic": "وصف مؤقت لهذا الكومبو.",
-                "spanish": "Descripción provisional para este combo.",
-                "italian": "Descrizione segnaposto per questa combo.",
-                "chinese-simplified": "此连招的占位描述。",
-                "chinese-traditional": "此連招的佔位描述。",
-                "russian": "Временное описание для этого комбо.",
-                "polish": "Tymczasowy opis tej kombinacji.",
-                "korean": "이 콤보에 대한 임시 설명입니다.",
-                "hindi": "इस कॉम्बो के लिए अस्थायी विवरण।",
-                "urdu": "اس کومبو کے لیے عارضی تفصیل۔"
+                "english": "Sports motorbike."
               },
               "buttons": [
+                "RB",
+                "Right",
+                "Left",
+                "Right",
+                "RT",
+                "Left",
+                "Right",
+                "X",
+                "Right",
+                "LT",
+                "LB",
+                "LB"
+              ]
+            },
+            {
+              "id": "xb-gta5-spawn-sanchez",
+              "title": {
+                "english": "Spawn Sanchez"
+              },
+              "description": {
+                "english": "Off-road dirt bike."
+              },
+              "buttons": [
+                "B",
                 "A",
+                "LB",
+                "B",
+                "B",
+                "LB",
+                "B",
+                "RB",
+                "RT",
+                "LT",
+                "LB",
+                "LB"
+              ]
+            },
+            {
+              "id": "xb-gta5-spawn-bmx",
+              "title": {
+                "english": "Spawn BMX"
+              },
+              "description": {
+                "english": "BMX bicycle."
+              },
+              "buttons": [
+                "Left",
+                "Left",
+                "Right",
+                "Right",
+                "Left",
+                "Right",
+                "X",
+                "B",
+                "Y",
+                "RB",
+                "RT"
+              ]
+            },
+            {
+              "id": "xb-gta5-spawn-stunt-plane",
+              "title": {
+                "english": "Spawn Stunt Plane"
+              },
+              "description": {
+                "english": "Mallard stunt plane."
+              },
+              "buttons": [
+                "B",
+                "Right",
+                "LB",
+                "LT",
+                "Left",
+                "RB",
+                "LB",
+                "LB",
+                "Left",
+                "Left",
                 "A",
-                "B"
+                "Y"
+              ]
+            },
+            {
+              "id": "xb-gta5-spawn-duster",
+              "title": {
+                "english": "Spawn Duster"
+              },
+              "description": {
+                "english": "Crop duster plane."
+              },
+              "buttons": [
+                "Right",
+                "Left",
+                "RB",
+                "RB",
+                "RB",
+                "Left",
+                "Y",
+                "Y",
+                "A",
+                "B",
+                "LB",
+                "LB"
+              ]
+            },
+            {
+              "id": "xb-gta5-spawn-limo",
+              "title": {
+                "english": "Spawn Limo"
+              },
+              "description": {
+                "english": "Stretch limousine."
+              },
+              "buttons": [
+                "RT",
+                "Right",
+                "LT",
+                "Left",
+                "Left",
+                "RB",
+                "LB",
+                "B",
+                "Right"
+              ]
+            },
+            {
+              "id": "xb-gta5-spawn-trashmaster",
+              "title": {
+                "english": "Spawn Trashmaster"
+              },
+              "description": {
+                "english": "Garbage truck."
+              },
+              "buttons": [
+                "B",
+                "RB",
+                "B",
+                "RB",
+                "Left",
+                "Left",
+                "RB",
+                "LB",
+                "B",
+                "Right"
+              ]
+            },
+            {
+              "id": "xb-gta5-spawn-caddy",
+              "title": {
+                "english": "Spawn Caddy"
+              },
+              "description": {
+                "english": "Golf cart."
+              },
+              "buttons": [
+                "B",
+                "LB",
+                "Left",
+                "RB",
+                "LT",
+                "A",
+                "RB",
+                "LB",
+                "B",
+                "A"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "gta5-world",
+          "name": {
+            "english": "World"
+          },
+          "combos": [
+            {
+              "id": "xb-gta5-change-weather",
+              "title": {
+                "english": "Change Weather"
+              },
+              "description": {
+                "english": "Cycles through weather types. Repeat to change again."
+              },
+              "buttons": [
+                "RT",
+                "A",
+                "LB",
+                "LB",
+                "LT",
+                "LT",
+                "LT",
+                "X"
+              ]
+            },
+            {
+              "id": "xb-gta5-moon-gravity",
+              "title": {
+                "english": "Moon Gravity"
+              },
+              "description": {
+                "english": "Lowers gravity for a floaty feel."
+              },
+              "buttons": [
+                "Left",
+                "Left",
+                "LB",
+                "RB",
+                "LB",
+                "Right",
+                "Left",
+                "LB",
+                "Left"
+              ]
+            },
+            {
+              "id": "xb-gta5-slippery-cars",
+              "title": {
+                "english": "Slippery Cars"
+              },
+              "description": {
+                "english": "Makes all cars slide like on ice."
+              },
+              "buttons": [
+                "Y",
+                "RB",
+                "RB",
+                "Left",
+                "RB",
+                "LB",
+                "RT",
+                "LB"
+              ]
+            },
+            {
+              "id": "xb-gta5-slow-motion",
+              "title": {
+                "english": "Slow Motion"
+              },
+              "description": {
+                "english": "Slows down time. Enter up to 3 times for stronger effect."
+              },
+              "buttons": [
+                "Y",
+                "Left",
+                "Right",
+                "Right",
+                "X",
+                "RT",
+                "RB"
               ]
             }
           ]
